@@ -7,7 +7,7 @@
         "gender": "Male",
         "rarity": 5,
         "directory": "ww/chars/Rover (Male)",
-        "image": "WuWa/Rover (Male).png",
+        "image": "ww/WuWa/Rover (Male).png",
         "pmx": "Rover (Male).bpmx"
     },
     {
@@ -18,7 +18,7 @@
         "gender": "Female",
         "rarity": 5,
         "directory": "ww/chars/Rover (Female)",
-        "image": "WuWa/Rover (Female).png",
+        "image": "ww/WuWa/Rover (Female).png",
         "pmx": "Rover (Female).pmx"
     },
     {
@@ -29,7 +29,7 @@
         "gender": "Male",
         "rarity": 4,
         "directory": "ww/chars/Aalto",
-        "image": "WuWa/Aalto.png",
+        "image": "ww/WuWa/Aalto.png",
         "pmx": "Aalto.pmx"
     },
     {
@@ -40,7 +40,7 @@
         "gender": "Female",
         "rarity": 4,
         "directory": "ww/chars/Baizhi",
-        "image": "WuWa/Baizhi.png",
+        "image": "ww/WuWa/Baizhi.png",
         "pmx": "Baizhi.pmx"
     },
     {
@@ -51,7 +51,7 @@
         "gender": "Female",
         "rarity": 4,
         "directory": "ww/chars/Chixia",
-        "image": "WuWa/Chixia.png",
+        "image": "ww/WuWa/Chixia.png",
         "pmx": "Chixia.pmx"
     },
     {
@@ -62,7 +62,7 @@
         "gender": "Female",
         "rarity": 4,
         "directory": "ww/chars/Danjin",
-        "image": "WuWa/Danjin.png",
+        "image": "ww/WuWa/Danjin.png",
         "pmx": "Danjin.pmx"
     },
     {
@@ -73,7 +73,7 @@
         "gender": "Male",
         "rarity": 4,
         "directory": "ww/chars/Mortefi",
-        "image": "WuWa/Mortefi.png",
+        "image": "ww/WuWa/Mortefi.png",
         "pmx": "Mortefi.pmx"
     },
     {
@@ -84,7 +84,7 @@
         "gender": "Female",
         "rarity": 4,
         "directory": "ww/chars/Sanhua/Sanhua",
-        "image": "WuWa/Sanhua.png",
+        "image": "ww/WuWa/Sanhua.png",
         "pmx": "Sanhua.pmx"
     },
     {
@@ -95,7 +95,7 @@
         "gender": "Female",
         "rarity": 4,
         "directory": "ww/chars/Taoqi",
-        "image": "WuWa/Taoqi.png",
+        "image": "ww/WuWa/Taoqi.png",
         "pmx": "Taoqi.pmx"
     },
     {
@@ -106,7 +106,7 @@
         "gender": "Female",
         "rarity": 4,
         "directory": "ww/chars/Yangyang",
-        "image": "WuWa/Yangyang.png",
+        "image": "ww/WuWa/Yangyang.png",
         "pmx": "Yangyang.pmx"
     },
     {
@@ -117,7 +117,7 @@
         "gender": "Male",
         "rarity": 4,
         "directory": "ww/chars/Yuanwu",
-        "image": "WuWa/Yuanwu.png",
+        "image": "ww/WuWa/Yuanwu.png",
         "pmx": "Yuanwu.pmx"
     },
     {
@@ -128,7 +128,7 @@
         "gender": "Male",
         "rarity": 5,
         "directory": "ww/chars/Calcharo",
-        "image": "WuWa/Calcharo.png",
+        "image": "ww/WuWa/Calcharo.png",
         "pmx": "Calcharo.pmx"
     },
     {
@@ -139,7 +139,7 @@
         "gender": "Female",
         "rarity": 5,
         "directory": "ww/chars/Encore",
-        "image": "WuWa/Encore.png",
+        "image": "ww/WuWa/Encore.png",
         "pmx": "Encore.pmx"
     },
     {
@@ -150,7 +150,7 @@
         "gender": "Female",
         "rarity": 5,
         "directory": "ww/chars/Jianxin",
-        "image": "WuWa/Jianxin.png",
+        "image": "ww/WuWa/Jianxin.png",
         "pmx": "Jianxin.pmx"
     },
     {
@@ -161,7 +161,7 @@
         "gender": "Male",
         "rarity": 5,
         "directory": "ww/chars/Jiyan",
-        "image": "WuWa/Jiyan.png",
+        "image": "ww/WuWa/Jiyan.png",
         "pmx": "Jiyan.pmx"
     },
     {
@@ -172,7 +172,7 @@
         "gender": "Male",
         "rarity": 5,
         "directory": "ww/chars/Lingyang",
-        "image": "WuWa/Lingyang.png",
+        "image": "ww/WuWa/Lingyang.png",
         "pmx": "Lingyang.pmx"
     },
     {
@@ -183,7 +183,7 @@
         "gender": "Female",
         "rarity": 5,
         "directory": "ww/chars/Verina",
-        "image": "WuWa/Verina.png",
+        "image": "ww/WuWa/Verina.png",
         "pmx": "Verina.pmx"
     },
     {
@@ -194,7 +194,7 @@
         "gender": "Female",
         "rarity": 5,
         "directory": "ww/chars/Yinlin",
-        "image": "WuWa/Yinlin.png",
+        "image": "ww/WuWa/Yinlin.png",
         "pmx": "Yinlin.pmx"
     },
     {
@@ -205,7 +205,7 @@
         "gender": "Female",
         "rarity": 5,
         "directory": "ww/chars/Jinhsi/Jinhsi",
-        "image": "WuWa/Jinhsi.png",
+        "image": "ww/WuWa/Jinhsi.png",
         "pmx": "Jinhsi.pmx"
     },
     {
@@ -216,7 +216,7 @@
         "gender": "Female",
         "rarity": 5,
         "directory": "ww/chars/Changli/Changli",
-        "image": "WuWa/Changli.png",
+        "image": "ww/WuWa/Changli.png",
         "pmx": "Changli.pmx"
     },
     {
@@ -227,7 +227,7 @@
         "gender": "Female",
         "rarity": 5,
         "directory": "ww/chars/Zhezhi",
-        "image": "WuWa/Zhezhi.png",
+        "image": "ww/WuWa/Zhezhi.png",
         "pmx": "Zhezhi.pmx"
     },
     {
@@ -238,7 +238,7 @@
         "gender": "Male",
         "rarity": 5,
         "directory": "ww/chars/Xiangli Yao",
-        "image": "WuWa/Xiangli Yao.png",
+        "image": "ww/WuWa/Xiangli Yao.png",
         "pmx": "Xiangli Yao.pmx"
     },
 	{
@@ -249,7 +249,7 @@
         "gender": "Female",
         "rarity": 5,
         "directory": "ww/chars/Shorekeeper",
-        "image": "WuWa/Shorekeeper.png",
+        "image": "ww/WuWa/Shorekeeper.png",
         "pmx": "Shorekeeper.pmx"
     },
 	{
@@ -260,7 +260,7 @@
         "gender": "Female",
         "rarity": 4,
         "directory": "ww/chars/Youhu",
-        "image": "WuWa/Youhu.png",
+        "image": "ww/WuWa/Youhu.png",
         "pmx": "Youhu.pmx"
     },
 	{
@@ -271,7 +271,7 @@
         "gender": "Female",
         "rarity": 5,
         "directory": "ww/chars/Camellya",
-        "image": "WuWa/Camellya.png",
+        "image": "ww/WuWa/Camellya.png",
         "pmx": "Camellya.pmx"
     },
 	{
@@ -282,7 +282,7 @@
         "gender": "Female",
         "rarity": 4,
         "directory": "ww/chars/Lumi",
-        "image": "WuWa/Lumi.png",
+        "image": "ww/WuWa/Lumi.png",
         "pmx": "Lumi.pmx"
     },
 	{
@@ -293,7 +293,7 @@
         "gender": "Female",
         "rarity": 5,
         "directory": "ww/chars/Carlotta/Carlotta",
-        "image": "WuWa/Carlotta.png",
+        "image": "ww/WuWa/Carlotta.png",
         "pmx": "Carlotta.pmx"
     },
 	{
@@ -304,7 +304,7 @@
         "gender": "Female",
         "rarity": 5,
         "directory": "ww/chars/Roccia",
-        "image": "WuWa/Roccia.png",
+        "image": "ww/WuWa/Roccia.png",
         "pmx": "Roccia.pmx"
     },
 	{
@@ -315,7 +315,7 @@
         "gender": "Female",
         "rarity": 5,
         "directory": "ww/chars/Phoebe",
-        "image": "WuWa/Phoebe.png",
+        "image": "ww/WuWa/Phoebe.png",
         "pmx": "Phoebe.pmx"
     },
 	{
@@ -326,7 +326,7 @@
         "gender": "Male",
         "rarity": 5,
         "directory": "ww/chars/Brant",
-        "image": "WuWa/Brant.png",
+        "image": "ww/WuWa/Brant.png",
         "pmx": "Brant.bpmx"
     },
 	{
@@ -337,7 +337,7 @@
         "gender": "Female",
         "rarity": 5,
         "directory": "ww/chars/Cantarella",
-        "image": "WuWa/Cantarella.png",
+        "image": "ww/WuWa/Cantarella.png",
         "pmx": "Cantarella.pmx"
     },
 	{
@@ -348,7 +348,7 @@
         "gender": "Female",
         "rarity": 5,
         "directory": "ww/chars/Zani",
-        "image": "WuWa/Zani.png",
+        "image": "ww/WuWa/Zani.png",
         "pmx": "赞妮更软的披风.pmx"
     },
 	{
@@ -359,7 +359,7 @@
         "gender": "Female",
         "rarity": 5,
         "directory": "ww/chars/Ciaccona",
-        "image": "WuWa/Ciaccona.png",
+        "image": "ww/WuWa/Ciaccona.png",
         "pmx": "鸣潮_夏空1.032.pmx"
     },
 	{
@@ -370,7 +370,7 @@
         "gender": "Female",
         "rarity": 5,
         "directory": "ww/chars/Cartethyia/Cartethyia",
-        "image": "WuWa/Cartethyia.png",
+        "image": "ww/WuWa/Cartethyia.png",
         "pmx": "卡提希娅.pmx"
     },
 	{
@@ -381,7 +381,7 @@
         "gender": "Female",
         "rarity": 5,
         "directory": "ww/chars/Lupa",
-        "image": "WuWa/Lupa.png",
+        "image": "ww/WuWa/Lupa.png",
         "pmx": "Lupa.bpmx"
     },
 	{
@@ -392,7 +392,7 @@
         "gender": "Female",
         "rarity": 5,
         "directory": "ww/chars/Phrolova/Phrolova",
-        "image": "WuWa/Phrolova.png",
+        "image": "ww/WuWa/Phrolova.png",
         "pmx": "弗洛洛.pmx"
     },
 	{
@@ -403,7 +403,7 @@
         "gender": "Female",
         "rarity": 5,
         "directory": "ww/chars/Augusta",
-        "image": "WuWa/Augusta.png",
+        "image": "ww/WuWa/Augusta.png",
         "pmx": "Augusta.pmx"
     },
 	{
@@ -414,7 +414,7 @@
         "gender": "Female",
         "rarity": 5,
         "directory": "ww/chars/Iuno",
-        "image": "WuWa/Iuno.png",
+        "image": "ww/WuWa/Iuno.png",
         "pmx": "Iuno.pmx"
     },
 	{
@@ -425,7 +425,7 @@
         "gender": "Female",
         "rarity": 5,
         "directory": "ww/chars/Galbrena",
-        "image": "WuWa/Galbrena.png",
+        "image": "ww/WuWa/Galbrena.png",
         "pmx": "Galbrena.pmx"
     },
 	{
@@ -436,7 +436,7 @@
         "gender": "Female",
         "rarity": 6,
         "directory": "ww/chars/Buling",
-        "image": "WuWa/Buling.png",
+        "image": "ww/WuWa/Buling.png",
         "pmx": "Buling.pmx"
     },
 	{
@@ -447,7 +447,7 @@
         "gender": "Male",
         "rarity": 6,
         "directory": "ww/chars/Scar",
-        "image": "WuWa/Scar.png",
+        "image": "ww/WuWa/Scar.png",
         "pmx": "Scar.pmx"
     },
 	{
@@ -458,7 +458,7 @@
         "gender": "Female",
         "rarity": 6,
         "directory": "ww/chars/Rosemary",
-        "image": "WuWa/Rosemary.png",
+        "image": "ww/WuWa/Rosemary.png",
         "pmx": "Rosemary.pmx"
     },
 	{
@@ -469,7 +469,7 @@
         "gender": "Male",
         "rarity": 6,
         "directory": "ww/chars/Geshu Lin",
-        "image": "WuWa/Geshu Lin.png",
+        "image": "ww/WuWa/Geshu Lin.png",
         "pmx": "Geshu Lin.pmx"
     },
 	{
@@ -480,7 +480,7 @@
         "gender": "Female",
         "rarity": 6,
         "directory": "ww/chars/Margherita",
-        "image": "WuWa/Margherita.png",
+        "image": "ww/WuWa/Margherita.png",
         "pmx": "Margherita.pmx"
     }
 ]

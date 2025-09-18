@@ -7,7 +7,7 @@
         "gender": "Female",
         "rarity": 5,
         "directory": "ww/chars/Jinhsi/JinhsiSkin",
-        "image": "WuWa/Jinhsi.png",
+        "image": "ww/WuWa/Jinhsi.png",
         "pmx": "鸣潮_今汐_桃夭灼灼.pmx"
     },
 	{
@@ -18,7 +18,7 @@
         "gender": "Female",
         "rarity": 5,
         "directory": "ww/chars/Carlotta/DarkCarlotta",
-        "image": "WuWa/Carlotta.png",
+        "image": "ww/WuWa/Carlotta.png",
         "pmx": "Carlotta.pmx"
     },
 	{
@@ -29,7 +29,7 @@
         "gender": "Female",
         "rarity": 5,
         "directory": "ww/chars/Carlotta/Carlotta_skin",
-        "image": "WuWa/Carlotta.png",
+        "image": "ww/WuWa/Carlotta.png",
         "pmx": "Carlotta.pmx"
     },
 	{
@@ -40,7 +40,7 @@
         "gender": "Female",
         "rarity": 4,
         "directory": "ww/chars/Sanhua/Sanhua_skin",
-        "image": "WuWa/Sanhua.png",
+        "image": "ww/WuWa/Sanhua.png",
         "pmx": "Sanhua.pmx"
     },
 	{
@@ -51,7 +51,7 @@
         "gender": "Female",
         "rarity": 5,
         "directory": "ww/chars/Cartethyia/Fleurdelys",
-        "image": "WuWa/Cartethyia.png",
+        "image": "ww/WuWa/Cartethyia.png",
         "pmx": "Fleurdelys.pmx"
     },
     {
@@ -62,7 +62,7 @@
         "gender": "Female",
         "rarity": 5,
         "directory": "ww/chars/Changli/Changli_skin",
-        "image": "WuWa/Changli.png",
+        "image": "ww/WuWa/Changli.png",
         "pmx": "Changli.pmx"
     },
 	{
@@ -73,7 +73,7 @@
         "gender": "Female",
         "rarity": 5,
         "directory": "ww/chars/Phrolova/Dark_Phrolova",
-        "image": "WuWa/Phrolova.png",
+        "image": "ww/WuWa/Phrolova.png",
         "pmx": "Phrolova.pmx"
     }
 ]
