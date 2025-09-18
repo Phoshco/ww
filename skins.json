@@ -1,0 +1,79 @@
+[
+	{
+        "id": 40000018,
+        "name": "Jinhsi",
+        "weaponType": "Broadblade",
+        "element": "Spectro",
+        "gender": "Female",
+        "rarity": 5,
+        "directory": "res/chars/WuWa/Jinhsi/JinhsiSkin",
+        "image": "WuWa/Jinhsi.png",
+        "pmx": "鸣潮_今汐_桃夭灼灼.pmx"
+    },
+	{
+        "id": 40000026,
+        "name": "Carlotta",
+        "weaponType": "Pistols",
+        "element": "Glacio",
+        "gender": "Female",
+        "rarity": 5,
+        "directory": "res/chars/WuWa/Carlotta/DarkCarlotta",
+        "image": "WuWa/Carlotta.png",
+        "pmx": "Carlotta.pmx"
+    },
+	{
+        "id": 40000926,
+        "name": "Carlotta",
+        "weaponType": "Pistols",
+        "element": "Glacio",
+        "gender": "Female",
+        "rarity": 5,
+        "directory": "res/chars/WuWa/Carlotta/Carlotta_skin",
+        "image": "WuWa/Carlotta.png",
+        "pmx": "Carlotta.pmx"
+    },
+	{
+        "id": 40000007,
+        "name": "Sanhua",
+        "weaponType": "Sword",
+        "element": "Glacio",
+        "gender": "Female",
+        "rarity": 4,
+        "directory": "res/chars/WuWa/Sanhua/Sanhua_skin",
+        "image": "WuWa/Sanhua.png",
+        "pmx": "Sanhua.pmx"
+    },
+	{
+        "id": 40000033,
+        "name": "Cartethyia",
+        "weaponType": "Sword",
+        "element": "Aero",
+        "gender": "Female",
+        "rarity": 5,
+        "directory": "res/chars/WuWa/Cartethyia/Fleurdelys",
+        "image": "WuWa/Cartethyia.png",
+        "pmx": "Fleurdelys.pmx"
+    },
+    {
+        "id": 40000019,
+        "name": "Changli",
+        "weaponType": "Sword",
+        "element": "Fusion",
+        "gender": "Female",
+        "rarity": 5,
+        "directory": "res/chars/WuWa/Changli/Changli_skin",
+        "image": "WuWa/Changli.png",
+        "pmx": "Changli.pmx"
+    },
+	{
+        "id": 40000035,
+        "name": "Phrolova",
+        "weaponType": "Rectifier",
+        "element": "Havoc",
+        "gender": "Female",
+        "rarity": 5,
+        "directory": "res/chars/WuWa/Phrolova/Dark_Phrolova",
+        "image": "WuWa/Phrolova.png",
+        "pmx": "Phrolova.pmx"
+    }
+]
