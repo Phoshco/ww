@@ -430,6 +430,17 @@
     },
 	{
         "id": 40000039,
+        "name": "Qiuyuan",
+        "weaponType": "Sword",
+        "element": "Aero",
+        "gender": "Male",
+        "rarity": 5,
+        "directory": "ww/chars/Qiuyuan",
+        "image": "ww/WuWa/Qiuyuan.png",
+        "pmx": "Qiuyuan.pmx"
+    },
+	{
+        "id": 40000040,
         "name": "Buling",
         "weaponType": "Universal",
         "element": "Universal",
