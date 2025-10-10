@@ -424,7 +424,7 @@
         "element": "Fusion",
         "gender": "Female",
         "rarity": 5,
-        "directory": "ww/chars/Galbrena",
+        "directory": "ww/chars/Galbrena/Galbrena",
         "image": "ww/WuWa/Galbrena.png",
         "pmx": "Galbrena.pmx"
     },

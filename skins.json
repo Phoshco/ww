@@ -75,5 +75,16 @@
         "directory": "ww/chars/Phrolova/Dark_Phrolova",
         "image": "ww/WuWa/Phrolova.png",
         "pmx": "Phrolova.pmx"
+    },
+	{
+        "id": 40000038,
+        "name": "Galbrena",
+        "weaponType": "Pistols",
+        "element": "Fusion",
+        "gender": "Female",
+        "rarity": 5,
+        "directory": "ww/chars/Galbrena/Galbrena_alter",
+        "image": "ww/WuWa/Galbrena.png",
+        "pmx": "Galbrena.pmx"
     }
 ]
