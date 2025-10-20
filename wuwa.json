@@ -8,7 +8,7 @@
         "rarity": 5,
         "directory": "ww/chars/Rover (Male)",
         "image": "ww/WuWa/Rover (Male).png",
-        "pmx": "Rover (Male).pmx"
+        "pmx": "Rover (Male).bpmx"
     },
     {
         "id": 40000001,
@@ -327,7 +327,7 @@
         "rarity": 5,
         "directory": "ww/chars/Brant",
         "image": "ww/WuWa/Brant.png",
-        "pmx": "Brant.pmx"
+        "pmx": "Brant.bpmx"
     },
 	{
         "id": 40000030,
@@ -382,7 +382,7 @@
         "rarity": 5,
         "directory": "ww/chars/Lupa",
         "image": "ww/WuWa/Lupa.png",
-        "pmx": "Lupa.pmx"
+        "pmx": "Lupa.bpmx"
     },
 	{
         "id": 40000035,
