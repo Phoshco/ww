@@ -442,13 +442,24 @@
 	{
         "id": 40000040,
         "name": "Buling",
-        "weaponType": "Universal",
-        "element": "Universal",
+        "weaponType": "Rectifier",
+        "element": "Electro",
         "gender": "Female",
         "rarity": 4,
         "directory": "ww/chars/Buling",
         "image": "ww/WuWa/Buling.png",
         "pmx": "Buling.pmx"
+    },
+	{
+        "id": 40000041,
+        "name": "Chisa",
+        "weaponType": "Broadblade",
+        "element": "Havoc",
+        "gender": "Female",
+        "rarity": 5,
+        "directory": "ww/chars/Chisa",
+        "image": "ww/WuWa/Chisa.png",
+        "pmx": "Chisa.pmx"
     },
 	{
         "id": 4000000,
