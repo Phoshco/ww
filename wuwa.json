@@ -462,6 +462,39 @@
         "pmx": "Chisa.pmx"
     },
 	{
+        "id": 40000042,
+        "name": "Mornye",
+        "weaponType": "Broadblade",
+        "element": "Fusion",
+        "gender": "Female",
+        "rarity": 5,
+        "directory": "ww/chars/Mornye",
+        "image": "ww/WuWa/Mornye.png",
+        "pmx": "Mornye.pmx"
+    },
+	{
+        "id": 40000043,
+        "name": "Lynae",
+        "weaponType": "Pistols",
+        "element": "Spectro",
+        "gender": "Female",
+        "rarity": 5,
+        "directory": "ww/chars/Lynae",
+        "image": "ww/WuWa/Lynae.png",
+        "pmx": "Lynae.pmx"
+    },
+	{
+        "id": 40000049,
+        "name": "Aemeath",
+        "weaponType": "Universal",
+        "element": "Universal",
+        "gender": "Female",
+        "rarity": 6,
+        "directory": "ww/chars/Aemeath",
+        "image": "ww/WuWa/Aemeath.png",
+        "pmx": "Aemeath.pmx"
+    },
+	{
         "id": 4000000,
         "name": "Scar",
         "weaponType": "Universal",
