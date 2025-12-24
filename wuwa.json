@@ -484,6 +484,17 @@
         "pmx": "Lynae.pmx"
     },
 	{
+        "id": 40000044,
+        "name": "Luuk",
+        "weaponType": "Universal",
+        "element": "Universal",
+        "gender": "Male",
+        "rarity": 6,
+        "directory": "ww/chars/Luuk",
+        "image": "ww/WuWa/Luuk.png",
+        "pmx": "Luuk.pmx"
+    },
+	{
         "id": 40000049,
         "name": "Aemeath",
         "weaponType": "Universal",
