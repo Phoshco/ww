@@ -548,5 +548,16 @@
         "directory": "ww/chars/Margherita",
         "image": "ww/WuWa/Margherita.png",
         "pmx": "Margherita.pmx"
+    },
+	{
+        "id": 4000004,
+        "name": "I.R.I.S",
+        "weaponType": "Universal",
+        "element": "Universal",
+        "gender": "Female",
+        "rarity": 6,
+        "directory": "ww/chars/I.R.I.S",
+        "image": "ww/WuWa/I.R.I.S.png",
+        "pmx": "I.R.I.S.pmx"
     }
 ]
