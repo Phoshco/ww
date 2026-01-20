@@ -486,21 +486,21 @@
 	{
         "id": 40000044,
         "name": "Luuk",
-        "weaponType": "Universal",
-        "element": "Universal",
+        "weaponType": "Gauntlets",
+        "element": "Spectro",
         "gender": "Male",
-        "rarity": 6,
+        "rarity": 5,
         "directory": "ww/chars/Luuk",
         "image": "ww/WuWa/Luuk.png",
         "pmx": "Luuk.pmx"
     },
 	{
-        "id": 40000049,
+        "id": 40000045,
         "name": "Aemeath",
-        "weaponType": "Universal",
-        "element": "Universal",
+        "weaponType": "Sword",
+        "element": "Fusion",
         "gender": "Female",
-        "rarity": 6,
+        "rarity": 5,
         "directory": "ww/chars/Aemeath",
         "image": "ww/WuWa/Aemeath.png",
         "pmx": "Aemeath.pmx"
