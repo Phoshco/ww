@@ -1,0 +1,40 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "T_R2T1PlayerFemaleMd20011Hair_HR",
+    "Class": "UScriptClass'Texture2D'",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Properties": {
+      "AddressX": "TA_Clamp",
+      "AddressY": "TA_Clamp",
+      "ImportedSize": {
+        "X": 512,
+        "Y": 4
+      },
+      "LightingGuid": "F95FDEF0-4F90DFFD-7689F49C-454BB816",
+      "CompressionSettings": "TC_VectorDisplacementmap",
+      "LODGroup": "TEXTUREGROUP_Character",
+      "SRGB": false,
+      "KuroStreamingGroup": "EKuroStreamingGroup::KuroStreamingGroup_RoleTexture",
+      "KuroMobileStreamingGroup": "EKuroStreamingGroup::KuroStreamingGroup_RoleTexture"
+    },
+    "SizeX": 512,
+    "SizeY": 4,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 8192,
+          "SizeOnDisk": 8192,
+          "OffsetInFile": "0x2DCE"
+        },
+        "SizeX": 512,
+        "SizeY": 4,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

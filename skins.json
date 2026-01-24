@@ -86,5 +86,27 @@
         "directory": "ww/chars/Galbrena/Galbrena_alter",
         "image": "ww/WuWa/Galbrena.png",
         "pmx": "Galbrena.pmx"
+    },
+	{
+        "id": 40000000,
+        "name": "Rover (Male)",
+        "weaponType": "Universal",
+        "element": "Universal",
+        "gender": "Male",
+        "rarity": 5,
+        "directory": "ww/chars/Rover (Male)/Skin",
+        "image": "ww/WuWa/Rover (Male).png",
+        "pmx": "Rover (Male).pmx"
+    },
+    {
+        "id": 40000001,
+        "name": "Rover (Female)",
+        "weaponType": "Universal",
+        "element": "Universal",
+        "gender": "Female",
+        "rarity": 5,
+        "directory": "ww/chars/Rover (Female)/Skin",
+        "image": "ww/WuWa/Rover (Female).png",
+        "pmx": "Rover (Female).pmx"
     }
 ]

@@ -1,0 +1,90 @@
+[
+  {
+    "Type": "MaterialInstanceConstant",
+    "Name": "MI_R2T1PlayerFemaleMd20011Face_HET",
+    "Class": "UScriptClass'MaterialInstanceConstant'",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Properties": {
+      "Parent": {
+        "ObjectName": "Material'M_WriteStencil'",
+        "ObjectPath": "Client/Content/Aki/Render/Shaders/Character/M_WriteStencil.0"
+      },
+      "ScalarParameterValues": [
+        {
+          "ParameterInfo": {
+            "Name": "RefractionDepthBias",
+            "Association": "GlobalParameter",
+            "Index": -1,
+            "Flags": 0
+          },
+          "ParameterValue": 0.0,
+          "ExpressionGUID": "00000000-00000000-00000000-00000000"
+        }
+      ],
+      "TextureParameterValues": [
+        {
+          "ParameterInfo": {
+            "Name": "Mask",
+            "Association": "GlobalParameter",
+            "Index": -1,
+            "Flags": 0
+          },
+          "ParameterValue": {
+            "ObjectName": "Texture2D'T_R2T1PlayerFemaleMd20011Face_HET'",
+            "ObjectPath": "Client/Content/Aki/Character/Role/FemaleM/Nvzhu/R2T1PlayerFemaleMd20011/Model/T_R2T1PlayerFemaleMd20011Face_HET.0"
+          },
+          "ExpressionGUID": "FDD53760-463990F8-D3FF71A4-F7CF5AF1"
+        }
+      ],
+      "BasePropertyOverrides": {
+        "bOverride_ShadingModel": true,
+        "bOverride_TwoSided": true,
+        "BlendMode": "BLEND_Masked",
+        "ShadingModel": "MSM_ToonCommon",
+        "OpacityMaskClipValue": 0.3333,
+        "bOverride_RenderQueue": true,
+        "RenderQueue": 190,
+        "bCastRayTracedShadows": true,
+        "bIsOnlyForSkeletalMesh": true,
+        "bDisableCastDynamicShadows": true,
+        "bUsedWithSkeletalMesh": true,
+        "bUsedWithMorphTargets": true
+      },
+      "CachedReferencedTextures": [
+        {
+          "ObjectName": "Texture2D'T_DefaultColorWhite_D'",
+          "ObjectPath": "Client/Content/Aki/Render/Common/T_DefaultColorWhite_D.0"
+        },
+        {
+          "ObjectName": "Texture2D'T_DefaultMaskGreen_M'",
+          "ObjectPath": "Client/Content/Aki/Render/Common/T_DefaultMaskGreen_M.0"
+        },
+        {
+          "ObjectName": "Texture2DArray'T_Default_TexArray'",
+          "ObjectPath": "Client/Content/Aki/Render/Common/T_Default_TexArray.0"
+        },
+        {
+          "ObjectName": "Texture2D'T_HDMF_EM'",
+          "ObjectPath": "Client/Content/Aki/Character/Role/CommonTexture/Eyes/T_HDMF_EM.0"
+        },
+        {
+          "ObjectName": "Texture2D'T_EV_BlankWhite_01'",
+          "ObjectPath": "Engine/Content/EngineVolumetrics/Fogsheet/Materials/T_EV_BlankWhite_01.0"
+        }
+      ],
+      "TextureStreamingData": [
+        {
+          "SamplingScale": 1.0,
+          "UVChannelIndex": 0,
+          "TextureName": "T_HDMF_EM"
+        },
+        {
+          "SamplingScale": 0.99993896,
+          "UVChannelIndex": 0,
+          "TextureName": "T_R2T1PlayerFemaleMd20011Face_HET"
+        }
+      ]
+    },
+    "LoadedMaterialResources": []
+  }
+]

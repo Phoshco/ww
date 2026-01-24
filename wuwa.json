@@ -6,7 +6,7 @@
         "element": "Universal",
         "gender": "Male",
         "rarity": 5,
-        "directory": "ww/chars/Rover (Male)",
+        "directory": "ww/chars/Rover (Male)/Rover (Male)",
         "image": "ww/WuWa/Rover (Male).png",
         "pmx": "Rover (Male).bpmx"
     },
@@ -17,7 +17,7 @@
         "element": "Universal",
         "gender": "Female",
         "rarity": 5,
-        "directory": "ww/chars/Rover (Female)",
+        "directory": "ww/chars/Rover (Female)/Rover (Female)",
         "image": "ww/WuWa/Rover (Female).png",
         "pmx": "Rover (Female).pmx"
     },

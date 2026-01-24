@@ -1,0 +1,44 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "T_R2T1PlayerFemaleMd20011Bangs_HM",
+    "Class": "UScriptClass'Texture2D'",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Properties": {
+      "ImportedSize": {
+        "X": 2048,
+        "Y": 2048
+      },
+      "LightingGuid": "72C66BFF-4A2B4F9C-08BB69BD-4B4A8C7D",
+      "CompressionSettings": "TC_BC7",
+      "LODGroup": "TEXTUREGROUP_Character",
+      "Downscale": {
+        "bCooked": true,
+        "Default": 0.0,
+        "PerPlatform": null,
+        "Value": 0.0
+      },
+      "SRGB": false,
+      "KuroStreamingGroup": "EKuroStreamingGroup::KuroStreamingGroup_RoleTexture",
+      "KuroMobileStreamingGroup": "EKuroStreamingGroup::KuroStreamingGroup_RoleTexture"
+    },
+    "SizeX": 2048,
+    "SizeY": 2048,
+    "PackedData": 1,
+    "PixelFormat": "PF_BC7",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 4194304,
+          "SizeOnDisk": 4194304,
+          "OffsetInFile": "0x400D2A"
+        },
+        "SizeX": 2048,
+        "SizeY": 2048,
+        "SizeZ": 1
+      }
+    ]
+  }
+]
