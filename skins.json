@@ -96,7 +96,7 @@
         "rarity": 5,
         "directory": "ww/chars/Rover (Male)/Skin",
         "image": "ww/WuWa/Rover (Male).png",
-        "pmx": "Rover (Male).pmx"
+        "pmx": "Rover (Male).bpmx"
     },
     {
         "id": 40000001,
@@ -107,6 +107,6 @@
         "rarity": 5,
         "directory": "ww/chars/Rover (Female)/Skin",
         "image": "ww/WuWa/Rover (Female).png",
-        "pmx": "Rover (Female).pmx"
+        "pmx": "Rover (Female).bpmx"
     }
 ]
