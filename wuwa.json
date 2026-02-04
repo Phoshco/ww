@@ -506,6 +506,28 @@
         "pmx": "Aemeath.pmx"
     },
 	{
+        "id": 40000046,
+        "name": "Lucilla",
+        "weaponType": "Universal",
+        "element": "Universal",
+        "gender": "Female",
+        "rarity": 6,
+        "directory": "ww/chars/Lucilla",
+        "image": "ww/WuWa/Lucilla.png",
+        "pmx": "Lucilla.pmx"
+    },
+	{
+        "id": 40000047,
+        "name": "Sigrika",
+        "weaponType": "Universal",
+        "element": "Universal",
+        "gender": "Female",
+        "rarity": 6,
+        "directory": "ww/chars/Sigrika",
+        "image": "ww/WuWa/Sigrika.png",
+        "pmx": "Sigrika.pmx"
+    },
+	{
         "id": 4000000,
         "name": "Scar",
         "weaponType": "Universal",
