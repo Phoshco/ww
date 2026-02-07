@@ -88,6 +88,17 @@
         "pmx": "Galbrena.pmx"
     },
 	{
+        "id": 40000045,
+        "name": "Aemeath",
+        "weaponType": "Sword",
+        "element": "Fusion",
+        "gender": "Female",
+        "rarity": 5,
+        "directory": "ww/chars/Aemeath/Aemeath_student",
+        "image": "ww/WuWa/Aemeath.png",
+        "pmx": "Aemeath.pmx"
+    },
+	{
         "id": 40000000,
         "name": "Rover (Male)",
         "weaponType": "Universal",
