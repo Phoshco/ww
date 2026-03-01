@@ -347,7 +347,7 @@
         "element": "Spectro",
         "gender": "Female",
         "rarity": 5,
-        "directory": "ww/chars/Zani",
+        "directory": "ww/chars/Zani/Zani",
         "image": "ww/WuWa/Zani.png",
         "pmx": "赞妮更软的披风.pmx"
     },
@@ -468,7 +468,7 @@
         "element": "Fusion",
         "gender": "Female",
         "rarity": 5,
-        "directory": "ww/chars/Mornye",
+        "directory": "ww/chars/Mornye/Mornye",
         "image": "ww/WuWa/Mornye.png",
         "pmx": "Mornye.pmx"
     },
