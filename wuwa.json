@@ -507,6 +507,17 @@
     },
 	{
         "id": 40000046,
+        "name": "Sigrika",
+        "weaponType": "Gauntlets",
+        "element": "Aero",
+        "gender": "Female",
+        "rarity": 5,
+        "directory": "ww/chars/Sigrika",
+        "image": "ww/WuWa/Sigrika.png",
+        "pmx": "Sigrika.pmx"
+    },
+	{
+        "id": 40000047,
         "name": "Lucilla",
         "weaponType": "Universal",
         "element": "Universal",
@@ -517,15 +528,26 @@
         "pmx": "Lucilla.pmx"
     },
 	{
-        "id": 40000047,
-        "name": "Sigrika",
+        "id": 40000048,
+        "name": "Denia",
         "weaponType": "Universal",
         "element": "Universal",
         "gender": "Female",
         "rarity": 6,
-        "directory": "ww/chars/Sigrika",
-        "image": "ww/WuWa/Sigrika.png",
-        "pmx": "Sigrika.pmx"
+        "directory": "ww/chars/Denia",
+        "image": "ww/WuWa/Denia.png",
+        "pmx": "Denia.pmx"
+    },
+	{
+        "id": 40000049,
+        "name": "Hiyuki",
+        "weaponType": "Universal",
+        "element": "Universal",
+        "gender": "Female",
+        "rarity": 6,
+        "directory": "ww/chars/Hiyuki",
+        "image": "ww/WuWa/Hiyuki.png",
+        "pmx": "Hiyuki.pmx"
     },
 	{
         "id": 4000000,
