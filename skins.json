@@ -121,6 +121,17 @@
         "pmx": "Aemeath.pmx"
     },
 	{
+        "id": 40000048,
+        "name": "Denia",
+        "weaponType": "Rectifier",
+        "element": "Fusion",
+        "gender": "Female",
+        "rarity": 6,
+        "directory": "ww/chars/Denia/Denia_alter",
+        "image": "ww/WuWa/Denia.png",
+        "pmx": "Denia.pmx"
+    },
+	{
         "id": 40000000,
         "name": "Rover (Male)",
         "weaponType": "Universal",
