@@ -110,6 +110,17 @@
         "pmx": "Mornye.pmx"
     },
 	{
+        "id": 40000942,
+        "name": "Mornye",
+        "weaponType": "Broadblade",
+        "element": "Fusion",
+        "gender": "Female",
+        "rarity": 5,
+        "directory": "ww/chars/Mornye/Mornye_skin",
+        "image": "ww/WuWa/Mornye.png",
+        "pmx": "Mornye.pmx"
+    },
+	{
         "id": 40000045,
         "name": "Aemeath",
         "weaponType": "Sword",

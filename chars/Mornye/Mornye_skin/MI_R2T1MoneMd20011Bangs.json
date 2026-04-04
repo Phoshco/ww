@@ -1,0 +1,138 @@
+{
+  "Textures": {
+    "MainTex": "Client/Content/Aki/Character/Role/FemaleMS/Mone/R2T1MoneMd20011/Model/T_R2T1MoneMd20011Bangs_D.T_R2T1MoneMd20011Bangs_D",
+    "PM_Diffuse": "Client/Content/Aki/Character/Role/FemaleMS/Mone/R2T1MoneMd20011/Model/T_R2T1MoneMd20011Bangs_D.T_R2T1MoneMd20011Bangs_D",
+    "T_R2T1MoneMd20011Bangs_D": "Client/Content/Aki/Character/Role/FemaleMS/Mone/R2T1MoneMd20011/Model/T_R2T1MoneMd20011Bangs_D.T_R2T1MoneMd20011Bangs_D",
+    "TypeMask": "Client/Content/Aki/Character/Role/FemaleMS/Mone/R2T1MoneMd20011/Model/T_R2T1MoneMd20011Bangs_FTM.T_R2T1MoneMd20011Bangs_FTM",
+    "T_R2T1MoneMd20011Bangs_FTM": "Client/Content/Aki/Character/Role/FemaleMS/Mone/R2T1MoneMd20011/Model/T_R2T1MoneMd20011Bangs_FTM.T_R2T1MoneMd20011Bangs_FTM"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {
+      "ExtraShadowColor": {
+        "R": 0.4,
+        "G": 0.4,
+        "B": 0.4,
+        "A": 0.0,
+        "Hex": "AAAAAA"
+      },
+      "Damage_Dirty_ColorTint": {
+        "R": 0.14,
+        "G": 0.08,
+        "B": 0.2,
+        "A": 1.0,
+        "Hex": "68507C"
+      },
+      "Damage_Dirty_SkinColorTint": {
+        "R": 0.848958,
+        "G": 0.587674,
+        "B": 0.543864,
+        "A": 1.0,
+        "Hex": "EECAC3"
+      },
+      "Damage_Skin_ColorTint": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFF"
+      },
+      "Sparkle_UV_Switch": {
+        "R": 1.0,
+        "G": 0.0,
+        "B": 0.0,
+        "A": 0.0,
+        "Hex": "FF0000"
+      },
+      "HueShiftValue": {
+        "R": 0.115871,
+        "G": 0.181282,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "5F76FF"
+      },
+      "SkinBaseColor": {
+        "R": 0.701961,
+        "G": 0.639216,
+        "B": 0.564706,
+        "A": 1.0,
+        "Hex": "DAD2C6"
+      },
+      "SkinBaseColorNight": {
+        "R": 0.85098,
+        "G": 0.835294,
+        "B": 0.756863,
+        "A": 1.0,
+        "Hex": "EEECE2"
+      }
+    },
+    "Scalars": {
+      "CurveRamp": 1.0,
+      "ShadowProcess": 0.85,
+      "SpecStrength": 0.3,
+      "DamageIntensity": 0.0,
+      "Damage_Dirty_Intensity": 1.7,
+      "Damage_Skin_Intensity": 1.0,
+      "SparkleMax": 1.0,
+      "SparkleMin": 0.0,
+      "SparkleTiling": 8.302999,
+      "SparkleColorful": 0.8,
+      "SparkleIntensity": 50.0,
+      "SparkleIntensityMax": 30.0,
+      "SparkleTimeSpeed": 0.0,
+      "SparkleRange": 0.952381,
+      "SparkleSoft": 0.914286,
+      "UseHairColorGradient": 0.54,
+      "R:OffsetPosition": 0.846,
+      "UseUVGradient_DYN": 1.0,
+      "UVGradientIn": 4.1,
+      "UvGradientProcess": 0.9,
+      "GradientIntensity": 2.0,
+      "GradientLambert": 1.0,
+      "GradientScaleMax": 1.0,
+      "GradientScaleMin": 0.0,
+      "BaseSphereLightInt": 1.0,
+      "ShdaowSphereLightInt": 1.0,
+      "ShowSphereLightMask": 0.0,
+      "SparkleChannel": 0.0,
+      "MaskShadowOffsetStrength": 0.25,
+      "ShadowOffsetAdjustFactor": 1.25,
+      "ShadowOffsetPower": 1.25,
+      "UVGradientSkinInt": 0.95,
+      "UVSaturationIntensity": 1.5,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {
+      "UseToonMask": true,
+      "UseTypeMask": true,
+      "UseRampColor": true,
+      "UseAllRampColor": false,
+      "UseOnlySkinRampColor": false,
+      "UseHairVCGradient": true,
+      "UseSphereGradient": true,
+      "UseUVGradient": true,
+      "UseHairHighlight": true
+    },
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "bRenderInCustomCapturePass": true,
+        "ShadingModel": "MSM_ToonHair",
+        "OpacityMaskClipValue": 0.3333,
+        "RenderQueue": 195,
+        "bIsCharacterHairMat": true,
+        "bCastRayTracedShadows": true,
+        "bIsOnlyForSkeletalMesh": true,
+        "bUsedWithSkeletalMesh": true,
+        "bUsedWithMorphTargets": true
+      }
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}
