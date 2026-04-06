@@ -121,6 +121,17 @@
         "pmx": "Mornye.pmx"
     },
 	{
+        "id": 40000049,
+        "name": "Hiyuki",
+        "weaponType": "Sword",
+        "element": "Glacio",
+        "gender": "Female",
+        "rarity": 6,
+        "directory": "ww/chars/Hiyuki/Hiyuki_alter",
+        "image": "ww/WuWa/Hiyuki.png",
+        "pmx": "Hiyuki.pmx"
+    },
+	{
         "id": 40000045,
         "name": "Aemeath",
         "weaponType": "Sword",

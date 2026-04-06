@@ -523,7 +523,7 @@
         "element": "Glacio",
         "gender": "Female",
         "rarity": 6,
-        "directory": "ww/chars/Lucilla",
+        "directory": "ww/chars/Lucilla/Lucilla",
         "image": "ww/WuWa/Lucilla.png",
         "pmx": "Lucilla.pmx"
     },
@@ -545,7 +545,7 @@
         "element": "Glacio",
         "gender": "Female",
         "rarity": 6,
-        "directory": "ww/chars/Hiyuki",
+        "directory": "ww/chars/Hiyuki/Hiyuki",
         "image": "ww/WuWa/Hiyuki.png",
         "pmx": "Hiyuki.pmx"
     },
