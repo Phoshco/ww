@@ -518,14 +518,14 @@
     },
 	{
         "id": 40000047,
-        "name": "Lucilla",
-        "weaponType": "Rectifier",
+        "name": "Hiyuki",
+        "weaponType": "Sword",
         "element": "Glacio",
         "gender": "Female",
-        "rarity": 6,
-        "directory": "ww/chars/Lucilla/Lucilla",
-        "image": "ww/WuWa/Lucilla.png",
-        "pmx": "Lucilla.pmx"
+        "rarity": 5,
+        "directory": "ww/chars/Hiyuki/Hiyuki",
+        "image": "ww/WuWa/Hiyuki.png",
+        "pmx": "Hiyuki.pmx"
     },
 	{
         "id": 40000048,
@@ -533,21 +533,21 @@
         "weaponType": "Rectifier",
         "element": "Fusion",
         "gender": "Female",
-        "rarity": 6,
+        "rarity": 5,
         "directory": "ww/chars/Denia",
         "image": "ww/WuWa/Denia.png",
         "pmx": "Denia red.pmx"
     },
 	{
         "id": 40000049,
-        "name": "Hiyuki",
-        "weaponType": "Sword",
+        "name": "Lucilla",
+        "weaponType": "Rectifier",
         "element": "Glacio",
         "gender": "Female",
-        "rarity": 6,
-        "directory": "ww/chars/Hiyuki/Hiyuki",
-        "image": "ww/WuWa/Hiyuki.png",
-        "pmx": "Hiyuki.pmx"
+        "rarity": 5,
+        "directory": "ww/chars/Lucilla/Lucilla",
+        "image": "ww/WuWa/Lucilla.png",
+        "pmx": "Lucilla.pmx"
     },
 	{
         "id": 4000000,
