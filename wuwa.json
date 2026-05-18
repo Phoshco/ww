@@ -550,6 +550,28 @@
         "pmx": "Lucilla.pmx"
     },
 	{
+        "id": 40000050,
+        "name": "Rebecca",
+        "weaponType": "Pistols",
+        "element": "Electro",
+        "gender": "Female",
+        "rarity": 5,
+        "directory": "ww/chars/Rebecca",
+        "image": "ww/WuWa/Rebecca.png",
+        "pmx": "Rebecca.pmx"
+    },
+	{
+        "id": 40000051,
+        "name": "Lucy (WuWa)",
+        "weaponType": "Pistols",
+        "element": "Spectro",
+        "gender": "Female",
+        "rarity": 5,
+        "directory": "ww/chars/Lucy",
+        "image": "ww/WuWa/Lucy.png",
+        "pmx": "Lucy.pmx"
+    },
+	{
         "id": 4000000,
         "name": "Scar",
         "weaponType": "Universal",
