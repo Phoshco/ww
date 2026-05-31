@@ -154,6 +154,17 @@
         "pmx": "Denia blue.pmx"
     },
 	{
+        "id": 40000049,
+        "name": "Lucilla",
+        "weaponType": "Rectifier",
+        "element": "Glacio",
+        "gender": "Female",
+        "rarity": 5,
+        "directory": "ww/chars/Lucilla/Lucilla alter",
+        "image": "ww/WuWa/Lucilla.png",
+        "pmx": "Lucilla.pmx"
+    },
+	{
         "id": 40000000,
         "name": "Rover (Male)",
         "weaponType": "Universal",
