@@ -270,7 +270,7 @@
         "element": "Havoc",
         "gender": "Female",
         "rarity": 5,
-        "directory": "ww/chars/Camellya",
+        "directory": "ww/chars/Camellya/Camellya",
         "image": "ww/WuWa/Camellya.png",
         "pmx": "Camellya.pmx"
     },
@@ -314,7 +314,7 @@
         "element": "Spectro",
         "gender": "Female",
         "rarity": 5,
-        "directory": "ww/chars/Phoebe",
+        "directory": "ww/chars/Phoebe/Phoebe",
         "image": "ww/WuWa/Phoebe.png",
         "pmx": "Phoebe.pmx"
     },
@@ -413,7 +413,7 @@
         "element": "Aero",
         "gender": "Female",
         "rarity": 5,
-        "directory": "ww/chars/Iuno",
+        "directory": "ww/chars/Iuno/Iuno",
         "image": "ww/WuWa/Iuno.png",
         "pmx": "Iuno.pmx"
     },
@@ -479,7 +479,7 @@
         "element": "Spectro",
         "gender": "Female",
         "rarity": 5,
-        "directory": "ww/chars/Lynae",
+        "directory": "ww/chars/Lynae/Lynae",
         "image": "ww/WuWa/Lynae.png",
         "pmx": "Lynae.pmx"
     },
@@ -534,7 +534,7 @@
         "element": "Fusion",
         "gender": "Female",
         "rarity": 5,
-        "directory": "ww/chars/Denia",
+        "directory": "ww/chars/Denia/Denia",
         "image": "ww/WuWa/Denia.png",
         "pmx": "Denia red.pmx"
     },

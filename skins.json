@@ -143,15 +143,26 @@
         "pmx": "Aemeath.pmx"
     },
 	{
+        "id": 40000948,
+        "name": "Denia",
+        "weaponType": "Rectifier",
+        "element": "Fusion",
+        "gender": "Female",
+        "rarity": 5,
+        "directory": "ww/chars/Denia/Denia",
+        "image": "ww/WuWa/Denia.png",
+        "pmx": "Denia blue.pmx"
+    },
+	{
         "id": 40000048,
         "name": "Denia",
         "weaponType": "Rectifier",
         "element": "Fusion",
         "gender": "Female",
-        "rarity": 6,
-        "directory": "ww/chars/Denia",
+        "rarity": 5,
+        "directory": "ww/chars/Denia/Denia_Solar5",
         "image": "ww/WuWa/Denia.png",
-        "pmx": "Denia blue.pmx"
+        "pmx": "Denia.pmx"
     },
 	{
         "id": 40000049,
@@ -163,6 +174,50 @@
         "directory": "ww/chars/Lucilla/Lucilla alter",
         "image": "ww/WuWa/Lucilla.png",
         "pmx": "Lucilla.pmx"
+    },
+	{
+        "id": 40000024,
+        "name": "Camellya",
+        "weaponType": "Sword",
+        "element": "Havoc",
+        "gender": "Female",
+        "rarity": 5,
+        "directory": "ww/chars/Camellya/Camellya_Solar5",
+        "image": "ww/WuWa/Camellya.png",
+        "pmx": "Camellya.pmx"
+    },
+	{
+        "id": 40000043,
+        "name": "Lynae",
+        "weaponType": "Pistols",
+        "element": "Spectro",
+        "gender": "Female",
+        "rarity": 5,
+        "directory": "ww/chars/Lynae/Lynae_Solar5",
+        "image": "ww/WuWa/Lynae.png",
+        "pmx": "Lynae.pmx"
+    },
+	{
+        "id": 40000037,
+        "name": "Iuno",
+        "weaponType": "Gauntlets",
+        "element": "Aero",
+        "gender": "Female",
+        "rarity": 5,
+        "directory": "ww/chars/Iuno/Iuno_Solar5",
+        "image": "ww/WuWa/Iuno.png",
+        "pmx": "Iuno.pmx"
+    },
+	{
+        "id": 40000028,
+        "name": "Phoebe",
+        "weaponType": "Rectifier",
+        "element": "Spectro",
+        "gender": "Female",
+        "rarity": 5,
+        "directory": "ww/chars/Phoebe/Phoebe_Solar5",
+        "image": "ww/WuWa/Phoebe.png",
+        "pmx": "Phoebe.pmx"
     },
 	{
         "id": 40000000,
