@@ -1,0 +1,13 @@
+[
+  {
+    "Type": "PhysicsAsset",
+    "Name": "NH_MaleM_140_PhysicsAsset",
+    "Flags": "RF_Public | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'PhysicsAsset'",
+    "Package": "Client/Content/Aki/Character/NPC/MaleM/Special/NH_MaleM_140/Model/NH_MaleM_140_PhysicsAsset",
+    "Properties": {
+      "ThumbnailInfo": null
+    },
+    "CollisionDisableTable": []
+  }
+]

@@ -1,0 +1,100 @@
+{
+  "Textures": {
+    "MainTex": "Client/Content/Aki/Character/NPC/MaleM/Special/NH_MaleM_140/Model/T_NH_MaleM_140Hair_D.T_NH_MaleM_140Hair_D",
+    "PM_Diffuse": "Client/Content/Aki/Character/NPC/MaleM/Special/NH_MaleM_140/Model/T_NH_MaleM_140Hair_D.T_NH_MaleM_140Hair_D",
+    "T_NH_MaleM_140Hair_D": "Client/Content/Aki/Character/NPC/MaleM/Special/NH_MaleM_140/Model/T_NH_MaleM_140Hair_D.T_NH_MaleM_140Hair_D",
+    "MaskTex": "Client/Content/Aki/Character/NPC/MaleM/Special/NH_MaleM_140/Model/T_NH_MaleM_140Hair_HM.T_NH_MaleM_140Hair_HM",
+    "T_NH_MaleM_140Hair_HM": "Client/Content/Aki/Character/NPC/MaleM/Special/NH_MaleM_140/Model/T_NH_MaleM_140Hair_HM.T_NH_MaleM_140Hair_HM",
+    "Ramp": "Client/Content/Aki/Character/NPC/MaleM/Special/NH_MaleM_140/Model/T_NH_MaleM_140_Skin.T_NH_MaleM_140_Skin",
+    "T_NH_MaleM_140_Skin": "Client/Content/Aki/Character/NPC/MaleM/Special/NH_MaleM_140/Model/T_NH_MaleM_140_Skin.T_NH_MaleM_140_Skin",
+    "HairUVMap": "Client/Content/Aki/Character/NPC/MaleM/Special/NH_MaleM_140/Model/T_NH_MaleM_140Hair_HN.T_NH_MaleM_140Hair_HN",
+    "T_NH_MaleM_140Hair_HN": "Client/Content/Aki/Character/NPC/MaleM/Special/NH_MaleM_140/Model/T_NH_MaleM_140Hair_HN.T_NH_MaleM_140Hair_HN",
+    "HairRamp": "Client/Content/Aki/Character/NPC/MaleM/Special/NH_MaleM_140/Model/T_NH_MaleM_140Hair_HR.T_NH_MaleM_140Hair_HR",
+    "T_NH_MaleM_140Hair_HR": "Client/Content/Aki/Character/NPC/MaleM/Special/NH_MaleM_140/Model/T_NH_MaleM_140Hair_HR.T_NH_MaleM_140Hair_HR"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {
+      "SubsurfaceColor": {
+        "R": 0.4,
+        "G": 0.4,
+        "B": 0.4,
+        "A": 0.0,
+        "Hex": "AAAAAA"
+      },
+      "SkinBaseColor": {
+        "R": 0.701961,
+        "G": 0.639216,
+        "B": 0.564706,
+        "A": 1.0,
+        "Hex": "DAD2C6"
+      },
+      "SkinBaseColorNight": {
+        "R": 0.85098,
+        "G": 0.835294,
+        "B": 0.756863,
+        "A": 1.0,
+        "Hex": "EEECE2"
+      }
+    },
+    "Scalars": {
+      "SolidShadowView": 0.8,
+      "CurveRamp": 1.0,
+      "RampIndex": 1.0,
+      "RampInt": 0.3,
+      "ShadowWidth": 0.05,
+      "SolidShadowWidth": 0.9,
+      "SolidShadowStrength": 0.3,
+      "SolidShadowProcess": 0.2,
+      "ShadowProcess": 0.8,
+      "UseUVGradient_DYN": 1.0,
+      "UvGradientProcess": 0.56,
+      "BaseSphereLightInt": 0.6,
+      "ShdaowSphereLightInt": 1.0,
+      "ShowSphereLightMask": 0.0,
+      "0_HairMaskChannel": 0.0,
+      "0_Position": 0.5,
+      "0_Width": 0.08,
+      "0_FlowMin": 0.5,
+      "0_HairRimHiddenChannel": 1.0,
+      "0_NoiseUpIntensity": 0.05,
+      "0_NoiseDownIntensity": 0.03,
+      "0_HighlightColorIntensity": 0.2,
+      "0_HighlightColorIntensity_Dark": 0.1,
+      "MaskShadowOffsetStrength": 0.6,
+      "ShadowOffsetAdjustFactor": 0.5,
+      "ShadowOffsetPower": 0.6,
+      "UVGradientSkinInt": 0.5,
+      "UVSaturationIntensity": 1.5,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {
+      "UseToonMask": true,
+      "UseRampColor": true,
+      "UseToonSpecular": false,
+      "UseUVGradient": true,
+      "UseHairHighlight": true
+    },
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "bRenderInCustomCapturePass": true,
+        "ShadingModel": "MSM_ToonHair",
+        "OpacityMaskClipValue": 0.3333,
+        "RenderQueue": 195,
+        "bOverride_IsCharacterHairMat": true,
+        "bCastRayTracedShadows": true,
+        "bIsOnlyForSkeletalMesh": true,
+        "bUsedWithSkeletalMesh": true,
+        "bUsedWithMorphTargets": true
+      }
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

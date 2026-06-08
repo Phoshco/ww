@@ -1,0 +1,146 @@
+[
+  {
+    "Type": "MaterialInstanceConstant",
+    "Name": "MI_NH_MaleM_140Face_OL",
+    "Flags": "RF_Public | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'MaterialInstanceConstant'",
+    "Package": "Client/Content/Aki/Character/NPC/MaleM/Special/NH_MaleM_140/Model/MI_NH_MaleM_140Face_OL",
+    "Properties": {
+      "Parent": {
+        "ObjectName": "MaterialInstanceConstant'MI_CharacterOL_Default'",
+        "ObjectPath": "/Game/Aki/Character/MaterialInstance/Outline/MI_CharacterOL_Default"
+      },
+      "bHasStaticPermutationResource": true,
+      "ScalarParameterValues": [
+        {
+          "ParameterInfo": {
+            "Name": "InnerOutlineMulti",
+            "Association": "GlobalParameter",
+            "Index": -1,
+            "Flags": 0
+          },
+          "ParameterValue": 350.0,
+          "ExpressionGUID": "8D03D26C-462A63DB-E131BE8E-BD27339B"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "InnerOutlineOffset",
+            "Association": "GlobalParameter",
+            "Index": -1,
+            "Flags": 0
+          },
+          "ParameterValue": 0.5,
+          "ExpressionGUID": "1B909D81-4B6C1E59-C96787A5-0E009EB9"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "OutlineClipWidth",
+            "Association": "GlobalParameter",
+            "Index": -1,
+            "Flags": 0
+          },
+          "ParameterValue": 1.2,
+          "ExpressionGUID": "365492A2-4D0425F1-D53A48AD-AFFD8306"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "OutlineHoldDistance",
+            "Association": "GlobalParameter",
+            "Index": -1,
+            "Flags": 0
+          },
+          "ParameterValue": 1.5,
+          "ExpressionGUID": "86CA00F4-4289401A-0E4DA2AE-B97DB1C4"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "RefractionDepthBias",
+            "Association": "GlobalParameter",
+            "Index": -1,
+            "Flags": 0
+          },
+          "ParameterValue": 0.0,
+          "ExpressionGUID": "00000000-00000000-00000000-00000000"
+        }
+      ],
+      "VectorParameterValues": [
+        {
+          "ParameterInfo": {
+            "Name": "OutlineColor",
+            "Association": "GlobalParameter",
+            "Index": -1,
+            "Flags": 0
+          },
+          "ParameterValue": {
+            "R": 0.300544,
+            "G": 0.194618,
+            "B": 0.177888,
+            "A": 1.0,
+            "Hex": "957A75"
+          },
+          "ExpressionGUID": "9990BBB0-4B0CB202-B1BE18A7-98A085F8"
+        }
+      ],
+      "BasePropertyOverrides": {
+        "ShadingModel": "MSM_ToonOutline",
+        "OpacityMaskClipValue": 0.3333,
+        "RenderQueue": 250,
+        "bCastRayTracedShadows": true,
+        "bIsOnlyForSkeletalMesh": true,
+        "bDisableCastDynamicShadows": true,
+        "bUsedWithSkeletalMesh": true,
+        "bUsedWithMorphTargets": true,
+        "bIsBackFace": true
+      },
+      "StaticParameters": {
+        "StaticSwitchParameters": [
+          {
+            "Value": true,
+            "ParameterInfo": {
+              "Name": "UseVertexColorB_InnerOutline",
+              "Association": "GlobalParameter",
+              "Index": -1,
+              "Flags": 0
+            },
+            "bOverride": true,
+            "ExpressionGUID": "846D831F-488546CC-2B94EAA1-AF3AA4C4"
+          },
+          {
+            "Value": true,
+            "ParameterInfo": {
+              "Name": "UseVertexGreen_OutlineWidth",
+              "Association": "GlobalParameter",
+              "Index": -1,
+              "Flags": 0
+            },
+            "bOverride": true,
+            "ExpressionGUID": "8C01BAE4-48AC89FD-81599A9E-49C33E52"
+          }
+        ]
+      },
+      "CachedReferencedTextures": [
+        {
+          "ObjectName": "Texture2D'T_Tile_26001'",
+          "ObjectPath": "/Game/Aki/Effect/Texture/Tile/T_Tile_26001"
+        },
+        {
+          "ObjectName": "Texture2D'T_DefaultColorWhite_D'",
+          "ObjectPath": "/Game/Aki/Render/Common/T_DefaultColorWhite_D"
+        },
+        {
+          "ObjectName": "Texture2D'T_DefaultColorBlack_D'",
+          "ObjectPath": "/Game/Aki/Render/Common/T_DefaultColorBlack_D"
+        },
+        {
+          "ObjectName": "Texture2D'T_DefaultColorBlack_Linear_D'",
+          "ObjectPath": "/Game/Aki/Render/Common/T_DefaultColorBlack_Linear_D"
+        },
+        {
+          "ObjectName": "Texture2D'T_Tile_19_Vec'",
+          "ObjectPath": "/Game/Aki/Effect/Texture/Tile/T_Tile_19_Vec"
+        }
+      ]
+    },
+    "LoadedMaterialResources": []
+  }
+]

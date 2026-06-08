@@ -625,8 +625,7 @@
         "directory": "ww/chars/I.R.I.S",
         "image": "ww/WuWa/I.R.I.S.png",
         "pmx": "I.R.I.S.pmx"
-    }
-	,
+    },
 	{
         "id": 4000005,
         "name": "Nivora",
@@ -637,5 +636,16 @@
         "directory": "ww/chars/Nivora",
         "image": "ww/WuWa/Nivora.png",
         "pmx": "Nivora.pmx"
+    },
+	{
+        "id": 4000006,
+        "name": "David",
+        "weaponType": "Universal",
+        "element": "Universal",
+        "gender": "Male",
+        "rarity": 6,
+        "directory": "ww/chars/David",
+        "image": "ww/WuWa/David.png",
+        "pmx": "David.pmx"
     }
 ]
