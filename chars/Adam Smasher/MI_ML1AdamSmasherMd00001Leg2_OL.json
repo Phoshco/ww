@@ -1,0 +1,35 @@
+{
+  "Textures": {
+    "MainTex": "Client/Content/Aki/Character/Monster/Lord/ML1AdamSmasherMd00001/Model/T_ML1AdamSmasherMd00001Leg2_D.T_ML1AdamSmasherMd00001Leg2_D",
+    "PM_Diffuse": "Client/Content/Aki/Character/Monster/Lord/ML1AdamSmasherMd00001/Model/T_ML1AdamSmasherMd00001Leg2_D.T_ML1AdamSmasherMd00001Leg2_D",
+    "T_ML1AdamSmasherMd00001Leg2_D": "Client/Content/Aki/Character/Monster/Lord/ML1AdamSmasherMd00001/Model/T_ML1AdamSmasherMd00001Leg2_D.T_ML1AdamSmasherMd00001Leg2_D"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {},
+    "Scalars": {
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "ShadingModel": "MSM_ToonOutline",
+        "OpacityMaskClipValue": 0.3333,
+        "RenderQueue": 250,
+        "bCastRayTracedShadows": true,
+        "bIsOnlyForSkeletalMesh": true,
+        "bDisableCastDynamicShadows": true,
+        "bUsedWithSkeletalMesh": true,
+        "bUsedWithMorphTargets": true,
+        "bIsBackFace": true
+      }
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

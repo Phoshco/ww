@@ -1,0 +1,73 @@
+{
+  "Textures": {
+    "MainTex": "Client/Content/Aki/Character/Monster/Lord/ML1AdamSmasherMd00001/Model/T_ML1AdamSmasherMd00001Body2_D.T_ML1AdamSmasherMd00001Body2_D",
+    "PM_Diffuse": "Client/Content/Aki/Character/Monster/Lord/ML1AdamSmasherMd00001/Model/T_ML1AdamSmasherMd00001Body2_D.T_ML1AdamSmasherMd00001Body2_D",
+    "T_ML1AdamSmasherMd00001Body2_D": "Client/Content/Aki/Character/Monster/Lord/ML1AdamSmasherMd00001/Model/T_ML1AdamSmasherMd00001Body2_D.T_ML1AdamSmasherMd00001Body2_D",
+    "PM_Normals": "Client/Content/Aki/Character/Monster/Lord/ML1AdamSmasherMd00001/Model/T_ML1AdamSmasherMd00001Body2_N.T_ML1AdamSmasherMd00001Body2_N",
+    "Normal_Roughness_Metallic": "Client/Content/Aki/Character/Monster/Lord/ML1AdamSmasherMd00001/Model/T_ML1AdamSmasherMd00001Body2_N.T_ML1AdamSmasherMd00001Body2_N",
+    "PBRCubeMap": "Client/Content/Aki/Character/Role/CommonTexture/CharacterCubeMaps/T_Env_06_CUBE.T_Env_06_CUBE",
+    "T_Env_06_CUBE": "Client/Content/Aki/Character/Role/CommonTexture/CharacterCubeMaps/T_Env_06_CUBE.T_Env_06_CUBE"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {
+      "ShadowColor": {
+        "R": 0.78,
+        "G": 0.7,
+        "B": 1.0,
+        "A": 0.0,
+        "Hex": "E5DAFF"
+      },
+      "EmissionColor": {
+        "R": 12.0,
+        "G": 6.567786,
+        "B": 0.0,
+        "A": 0.0,
+        "Hex": "FFFF00"
+      },
+      "PBRSpecularColor_Test": {
+        "R": 4.0,
+        "G": 4.0,
+        "B": 4.0,
+        "A": 0.0,
+        "Hex": "FFFFFF"
+      }
+    },
+    "Scalars": {
+      "ShadowRange": 0.011,
+      "ShadowOffset": 0.02,
+      "NormalStrength": 1.0,
+      "Roughness": 0.6,
+      "Metalllic": 1.0,
+      "PBRCubeMap_Test": 0.75,
+      "PBRHardSpecWidth_Test": 0.8,
+      "PBRHardSpeSmooth_Test": 0.86,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {
+      "UseNormalTexture": true,
+      "UsePBR": true,
+      "UsePBRMask": true
+    },
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "bEnableSeparateTranslucency": true,
+        "ShadingModel": "MSM_ToonCommon",
+        "OpacityMaskClipValue": 0.3333,
+        "RenderQueue": 180,
+        "bCastRayTracedShadows": true,
+        "bIsOnlyForSkeletalMesh": true,
+        "bUsedWithSkeletalMesh": true,
+        "bUsedWithMorphTargets": true
+      }
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

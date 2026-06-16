@@ -572,6 +572,28 @@
         "pmx": "Lucy.pmx"
     },
 	{
+        "id": 40000052,
+        "name": "Yangyang Xuanling",
+        "weaponType": "Sword",
+        "element": "Havoc",
+        "gender": "Female",
+        "rarity": 5,
+        "directory": "ww/chars/Yangyang Xuanling",
+        "image": "ww/WuWa/Yangyang Xuanling.png",
+        "pmx": "Xuanling.pmx"
+    },
+	{
+        "id": 40000053,
+        "name": "Suisui",
+        "weaponType": "Rectifier",
+        "element": "Glacio",
+        "gender": "Female",
+        "rarity": 5,
+        "directory": "ww/chars/Suisui",
+        "image": "ww/WuWa/Suisui.png",
+        "pmx": "Suisui.pmx"
+    },
+	{
         "id": 4000000,
         "name": "Scar",
         "weaponType": "Universal",
@@ -647,5 +669,16 @@
         "directory": "ww/chars/David",
         "image": "ww/WuWa/David.png",
         "pmx": "David.pmx"
+    },
+	{
+        "id": 4000007,
+        "name": "Adam Smasher",
+        "weaponType": "Universal",
+        "element": "Universal",
+        "gender": "Male",
+        "rarity": 6,
+        "directory": "ww/chars/Adam Smasher",
+        "image": "ww/WuWa/Adam Smasher.png",
+        "pmx": "Adam Smasher.pmx"
     }
 ]
