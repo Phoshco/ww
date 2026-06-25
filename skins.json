@@ -154,6 +154,17 @@
         "pmx": "Denia blue.pmx"
     },
 	{
+        "id": 40000848,
+        "name": "Denia",
+        "weaponType": "Rectifier",
+        "element": "Fusion",
+        "gender": "Female",
+        "rarity": 5,
+        "directory": "ww/chars/Denia/Denia_alter",
+        "image": "ww/WuWa/Denia.png",
+        "pmx": "Denia.pmx"
+    },
+	{
         "id": 40000048,
         "name": "Denia",
         "weaponType": "Rectifier",
