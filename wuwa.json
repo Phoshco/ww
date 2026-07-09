@@ -594,6 +594,17 @@
         "pmx": "Suisui.pmx"
     },
 	{
+        "id": 40000054,
+        "name": "Hsin",
+        "weaponType": "Universal",
+        "element": "Universal",
+        "gender": "Female",
+        "rarity": 6,
+        "directory": "ww/chars/Hsin",
+        "image": "ww/WuWa/Hsin.png",
+        "pmx": "Hsin.pmx"
+    },
+	{
         "id": 4000000,
         "name": "Scar",
         "weaponType": "Universal",
