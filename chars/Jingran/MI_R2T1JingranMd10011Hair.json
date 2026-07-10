@@ -1,0 +1,74 @@
+{
+  "Textures": {
+    "MainTex": "Client/Content/Aki/Character/Role/MaleM/Jingran/R2T1JingranMd10011/Model/T_R2T1JingranMd10011Hair_D.T_R2T1JingranMd10011Hair_D",
+    "PM_Diffuse": "Client/Content/Aki/Character/Role/MaleM/Jingran/R2T1JingranMd10011/Model/T_R2T1JingranMd10011Hair_D.T_R2T1JingranMd10011Hair_D",
+    "T_R2T1JingranMd10011Hair_D": "Client/Content/Aki/Character/Role/MaleM/Jingran/R2T1JingranMd10011/Model/T_R2T1JingranMd10011Hair_D.T_R2T1JingranMd10011Hair_D",
+    "MaskTex": "Client/Content/Aki/Character/Role/MaleM/Jingran/R2T1JingranMd10011/Model/T_R2T1JingranMd10011Hair_HM.T_R2T1JingranMd10011Hair_HM",
+    "T_R2T1JingranMd10011Hair_HM": "Client/Content/Aki/Character/Role/MaleM/Jingran/R2T1JingranMd10011/Model/T_R2T1JingranMd10011Hair_HM.T_R2T1JingranMd10011Hair_HM",
+    "TypeMask": "Client/Content/Aki/Character/Role/MaleM/Jingran/R2T1JingranMd10011/Model/T_R2T1JingranMd10011Hair_FTM.T_R2T1JingranMd10011Hair_FTM",
+    "T_R2T1JingranMd10011Hair_FTM": "Client/Content/Aki/Character/Role/MaleM/Jingran/R2T1JingranMd10011/Model/T_R2T1JingranMd10011Hair_FTM.T_R2T1JingranMd10011Hair_FTM",
+    "Ramp": "Client/Content/Aki/Character/Role/MaleM/Jingran/R2T1JingranMd10011/Model/T_R2T1JingranMd10011A_Skin.T_R2T1JingranMd10011A_Skin",
+    "T_R2T1JingranMd10011A_Skin": "Client/Content/Aki/Character/Role/MaleM/Jingran/R2T1JingranMd10011/Model/T_R2T1JingranMd10011A_Skin.T_R2T1JingranMd10011A_Skin",
+    "HairUVMap": "Client/Content/Aki/Character/Role/MaleM/Jingran/R2T1JingranMd10011/Model/T_R2T1JingranMd10011Hair_HN.T_R2T1JingranMd10011Hair_HN",
+    "T_R2T1JingranMd10011Hair_HN": "Client/Content/Aki/Character/Role/MaleM/Jingran/R2T1JingranMd10011/Model/T_R2T1JingranMd10011Hair_HN.T_R2T1JingranMd10011Hair_HN"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {
+      "Damage_Dirty_ColorTint": {
+        "R": 0.09,
+        "G": 0.095167,
+        "B": 0.1,
+        "A": 1.0,
+        "Hex": "545759"
+      },
+      "Damage_Dirty_SkinColorTint": {
+        "R": 0.848958,
+        "G": 0.587674,
+        "B": 0.543864,
+        "A": 1.0,
+        "Hex": "EECAC3"
+      },
+      "Damage_Skin_ColorTint": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFF"
+      }
+    },
+    "Scalars": {
+      "CurveRamp": 1.0,
+      "SpecStrength": 0.1,
+      "DamageIntensity": 0.0,
+      "Damage_Dirty_Intensity": 1.0,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {
+      "UseTypeMask": true,
+      "UseRampColor": true,
+      "UseHairHighlight": true
+    },
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "bRenderInCustomCapturePass": true,
+        "ShadingModel": "MSM_ToonHair",
+        "OpacityMaskClipValue": 0.3333,
+        "RenderQueue": 195,
+        "bOverride_IsCharacterHairMat": true,
+        "bCastRayTracedShadows": true,
+        "bIsOnlyForSkeletalMesh": true,
+        "bUsedWithSkeletalMesh": true,
+        "bUsedWithMorphTargets": true
+      }
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

@@ -605,6 +605,28 @@
         "pmx": "Hsin.pmx"
     },
 	{
+        "id": 40000055,
+        "name": "Jingran",
+        "weaponType": "Universal",
+        "element": "Universal",
+        "gender": "Male",
+        "rarity": 6,
+        "directory": "ww/chars/Jingran",
+        "image": "ww/WuWa/Jingran.png",
+        "pmx": "Jingran.pmx"
+    },
+	{
+        "id": 40000056,
+        "name": "Qingxiao",
+        "weaponType": "Universal",
+        "element": "Universal",
+        "gender": "Female",
+        "rarity": 6,
+        "directory": "ww/chars/Qingxiao",
+        "image": "ww/WuWa/Qingxiao.png",
+        "pmx": "Qingxiao.pmx"
+    },
+	{
         "id": 4000000,
         "name": "Scar",
         "weaponType": "Universal",
