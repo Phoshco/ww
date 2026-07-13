@@ -1,0 +1,109 @@
+{
+  "Textures": {
+    "MainTex": "Client/Content/Aki/Character/NPC/MaleM/Function/NH_MaleM_215_01/Model/T_NH_MaleM_215_01_Up01_D.T_NH_MaleM_215_01_Up01_D",
+    "PM_Diffuse": "Client/Content/Aki/Character/Role/CommonTexture/CharacterCubeMaps/T_MC_premake_D.T_MC_premake_D",
+    "T_NH_MaleM_215_01_Up01_D": "Client/Content/Aki/Character/NPC/MaleM/Function/NH_MaleM_215_01/Model/T_NH_MaleM_215_01_Up01_D.T_NH_MaleM_215_01_Up01_D",
+    "TypeMask": "Client/Content/Aki/Character/NPC/MaleM/Function/NH_MaleM_215/Model/T_NH_MaleM_215_Up01_ID.T_NH_MaleM_215_Up01_ID",
+    "T_NH_MaleM_215_Up01_ID": "Client/Content/Aki/Character/NPC/MaleM/Function/NH_MaleM_215/Model/T_NH_MaleM_215_Up01_ID.T_NH_MaleM_215_Up01_ID",
+    "PM_Normals": "Client/Content/Aki/Character/NPC/MaleM/Function/NH_MaleM_215_01/Model/T_NH_MaleM_215_01_Up01_N.T_NH_MaleM_215_01_Up01_N",
+    "Normal_Roughness_Metallic": "Client/Content/Aki/Character/NPC/MaleM/Function/NH_MaleM_215_01/Model/T_NH_MaleM_215_01_Up01_N.T_NH_MaleM_215_01_Up01_N",
+    "MatCapTex": "Client/Content/Aki/Character/Role/CommonTexture/CharacterCubeMaps/T_MC_premake_D.T_MC_premake_D",
+    "T_MC_premake_D": "Client/Content/Aki/Character/Role/CommonTexture/CharacterCubeMaps/T_MC_premake_D.T_MC_premake_D",
+    "Ramp": "Client/Content/Aki/Character/NPC/MaleM/Function/NH_MaleM_215/Model/T_NH_MaleM_215_Skin.T_NH_MaleM_215_Skin",
+    "T_NH_MaleM_215_Skin": "Client/Content/Aki/Character/NPC/MaleM/Function/NH_MaleM_215/Model/T_NH_MaleM_215_Skin.T_NH_MaleM_215_Skin"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {
+      "SubsurfaceColor": {
+        "R": 0.6,
+        "G": 0.6,
+        "B": 0.6,
+        "A": 0.0,
+        "Hex": "CCCCCC"
+      },
+      "EmissionColor": {
+        "R": 0.567708,
+        "G": 0.567708,
+        "B": 0.567708,
+        "A": 0.0,
+        "Hex": "C7C7C7"
+      },
+      "SkinBaseColor": {
+        "R": 0.701961,
+        "G": 0.639216,
+        "B": 0.564706,
+        "A": 1.0,
+        "Hex": "DAD2C6"
+      },
+      "SkinBaseColorNight": {
+        "R": 0.85098,
+        "G": 0.835294,
+        "B": 0.756863,
+        "A": 1.0,
+        "Hex": "EEECE2"
+      },
+      "SkinColor": {
+        "R": 0.88,
+        "G": 0.782222,
+        "B": 0.704,
+        "A": 0.0,
+        "Hex": "F1E5DB"
+      }
+    },
+    "Scalars": {
+      "SolidShadowProcess": 0.8,
+      "SolidShadowSaturation": 1.0,
+      "SolidShadowView": 1.0,
+      "ShadowProcess": 0.5,
+      "ShadowWidth": 0.1,
+      "SolidShadowWidth": 0.7,
+      "SolidShadowStrength": 0.0,
+      "BreatheStrength": 0.9,
+      "BreatheFrequency": 2.0,
+      "BreathePropotion": 1.5,
+      "MetalEmissionStrength": 1.0,
+      "MetalSpecularPower": 5.0,
+      "UvGradientProcess": 0.6,
+      "BaseSphereLightInt": 0.3,
+      "RampInt": 0.1,
+      "RampPosition": 0.5,
+      "UVGradientSkinInt": 0.95,
+      "UVSaturationIntensity": 1.5,
+      "LightOffset_Pitch": 12.0,
+      "ToonRimWidth": 0.03,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {
+      "UseTypeMask": true,
+      "UseBreathLight": true,
+      "UseNormalMap": true,
+      "UsePBR": true,
+      "使用PBRMask": true,
+      "UseUVGradient": true,
+      "UseRampColor": true,
+      "UseSkinAllRampColor": true
+    },
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "bOverride_TwoSided": true,
+        "bRenderInCustomCapturePass": true,
+        "ShadingModel": "MSM_ToonCommon",
+        "OpacityMaskClipValue": 0.3333,
+        "RenderQueue": 180,
+        "bCastRayTracedShadows": true,
+        "bIsOnlyForSkeletalMesh": true,
+        "bUsedWithSkeletalMesh": true,
+        "bUsedWithMorphTargets": true
+      }
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

@@ -713,5 +713,16 @@
         "directory": "ww/chars/Adam Smasher",
         "image": "ww/WuWa/Adam Smasher.png",
         "pmx": "Adam Smasher.pmx"
+    },
+	{
+        "id": 4000008,
+        "name": "Muyu",
+        "weaponType": "Universal",
+        "element": "Universal",
+        "gender": "Male",
+        "rarity": 6,
+        "directory": "ww/chars/Muyu",
+        "image": "ww/WuWa/Muyu.png",
+        "pmx": "Muyu.pmx"
     }
 ]
