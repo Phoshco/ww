@@ -724,5 +724,16 @@
         "directory": "ww/chars/Muyu",
         "image": "ww/WuWa/Muyu.png",
         "pmx": "Muyu.pmx"
+    },
+	{
+        "id": 4000009,
+        "name": "Liangyu",
+        "weaponType": "Universal",
+        "element": "Universal",
+        "gender": "Female",
+        "rarity": 6,
+        "directory": "ww/chars/Liangyu",
+        "image": "ww/WuWa/Liangyu.png",
+        "pmx": "Liangyu.pmx"
     }
 ]
