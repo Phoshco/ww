@@ -595,6 +595,28 @@
     },
 	{
         "id": 40000054,
+        "name": "Jingran",
+        "weaponType": "Broadblade",
+        "element": "Fusion",
+        "gender": "Male",
+        "rarity": 5,
+        "directory": "ww/chars/Jingran",
+        "image": "ww/WuWa/Jingran.png",
+        "pmx": "Jingran.pmx"
+    },
+	{
+        "id": 40000055,
+        "name": "Qingxiao",
+        "weaponType": "Sword",
+        "element": "Aero",
+        "gender": "Female",
+        "rarity": 5,
+        "directory": "ww/chars/Qingxiao",
+        "image": "ww/WuWa/Qingxiao.png",
+        "pmx": "Qingxiao.pmx"
+    },
+	{
+        "id": 40000056,
         "name": "Hsin",
         "weaponType": "Universal",
         "element": "Universal",
@@ -605,26 +627,15 @@
         "pmx": "Hsin.pmx"
     },
 	{
-        "id": 40000055,
-        "name": "Jingran",
-        "weaponType": "Universal",
-        "element": "Universal",
-        "gender": "Male",
-        "rarity": 6,
-        "directory": "ww/chars/Jingran",
-        "image": "ww/WuWa/Jingran.png",
-        "pmx": "Jingran.pmx"
-    },
-	{
-        "id": 40000056,
-        "name": "Qingxiao",
+        "id": 40000057,
+        "name": "Suoming",
         "weaponType": "Universal",
         "element": "Universal",
         "gender": "Female",
         "rarity": 6,
-        "directory": "ww/chars/Qingxiao",
-        "image": "ww/WuWa/Qingxiao.png",
-        "pmx": "Qingxiao.pmx"
+        "directory": "ww/chars/Suoming",
+        "image": "ww/WuWa/Suoming.png",
+        "pmx": "Suoming.pmx"
     },
 	{
         "id": 4000000,
