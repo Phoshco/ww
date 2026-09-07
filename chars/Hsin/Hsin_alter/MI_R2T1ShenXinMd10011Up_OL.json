@@ -1,0 +1,63 @@
+{
+  "Textures": {
+    "MainTex": "Client/Content/Aki/Character/Role/FemaleXL/XinyuehuShen/R2T1ShenXinMd10011/Model/T_R2T1ShenXinMd10011Up_D.T_R2T1ShenXinMd10011Up_D",
+    "PM_Diffuse": "Client/Content/Aki/Character/Role/FemaleXL/XinyuehuShen/R2T1ShenXinMd10011/Model/T_R2T1ShenXinMd10011Up_D.T_R2T1ShenXinMd10011Up_D",
+    "T_R2T1ShenXinMd10011Up_D": "Client/Content/Aki/Character/Role/FemaleXL/XinyuehuShen/R2T1ShenXinMd10011/Model/T_R2T1ShenXinMd10011Up_D.T_R2T1ShenXinMd10011Up_D"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {
+      "BaseColorTint": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFF"
+      },
+      "OutlineColorTint": {
+        "R": 0.277,
+        "G": 0.259562,
+        "B": 0.189191,
+        "A": 0.0,
+        "Hex": "908B78"
+      }
+    },
+    "Scalars": {
+      "InnerOutlineMulti": 500.0,
+      "InnerOutlineOffset": 0.5,
+      "OutlineClipWidth": 1.8,
+      "OutlineHoldDistance": 1.5,
+      "MaxOutlineWidth": 0.48,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {
+      "UseMainTex": true,
+      "UseVertexColorB_InnerOutline": true,
+      "UseVertexGreen_OutlineWidth": true,
+      "UseClipSpaceOutline": true
+    },
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "bEnableAdaptiveTessellation": true,
+        "ShadingModel": "MSM_ToonOutline",
+        "OpacityMaskClipValue": 0.3333,
+        "RenderQueue": 250,
+        "bCastRayTracedShadows": true,
+        "bIsOnlyForSkeletalMesh": true,
+        "bDisableCastDynamicShadows": true,
+        "bUsedWithSkeletalMesh": true,
+        "bUsedWithMorphTargets": true,
+        "bIsBackFace": true,
+        "bUseFullPrecision": true
+      }
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

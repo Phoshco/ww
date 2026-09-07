@@ -1,0 +1,94 @@
+{
+  "Textures": {
+    "MainTex": "Client/Content/Aki/Character/Role/FemaleXL/XinyuehuShen/R2T1ShenXinMd10011/Model/T_R2T1ShenXinMd10011Hair_D.T_R2T1ShenXinMd10011Hair_D",
+    "PM_Diffuse": "Client/Content/Aki/Character/Role/FemaleXL/XinyuehuShen/R2T1ShenXinMd10011/Model/T_R2T1ShenXinMd10011Hair_D.T_R2T1ShenXinMd10011Hair_D",
+    "T_R2T1ShenXinMd10011Hair_D": "Client/Content/Aki/Character/Role/FemaleXL/XinyuehuShen/R2T1ShenXinMd10011/Model/T_R2T1ShenXinMd10011Hair_D.T_R2T1ShenXinMd10011Hair_D"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {
+      "BaseColorTint": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFF"
+      },
+      "Ghost_UV4ColorBlend": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFF"
+      },
+      "OutlineColor": {
+        "R": 0.088542,
+        "G": 0.088542,
+        "B": 0.088542,
+        "A": 1.0,
+        "Hex": "545454"
+      },
+      "OutlineColorTint": {
+        "R": 0.411458,
+        "G": 0.411458,
+        "B": 0.411458,
+        "A": 0.0,
+        "Hex": "ACACAC"
+      }
+    },
+    "Scalars": {
+      "Use_Transparent": -0.3,
+      "DownTran_Offset": 2.0,
+      "DownTran_Power": 1.0,
+      "RandomAmount": 0.0,
+      "WPOMask_Offset": 0.2,
+      "WPOMask_Width": 0.5,
+      "SinClothWaveInt": 0.5,
+      "SineTangentWaveAmount": 0.0,
+      "SinWaveAmount": 2.0,
+      "NormalOffsetMix_Amount": 0.7,
+      "SpeedControl": 0.7,
+      "Ghost_WPOsize": 12.0,
+      "UV4Mask_Offset": -0.14,
+      "UV4Mask_Power": 8.0,
+      "InnerOutlineMulti": 500.0,
+      "InnerOutlineOffset": 0.5,
+      "OutlineClipWidth": 2.0,
+      "OutlineHoldDistance": 1.5,
+      "MaxOutlineWidth": 0.48,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {
+      "UseCommonWPO": true,
+      "UseGhost": true,
+      "UseIDMask": true,
+      "UseUV4ColorBlend": true,
+      "UseMainTex": true,
+      "UseVertexColorB_InnerOutline": true,
+      "UseVertexGreen_OutlineWidth": true,
+      "UseClipSpaceOutline": true
+    },
+    "Properties": {
+      "BasePropertyOverrides": {
+        "bEnableAdaptiveTessellation": true,
+        "ShadingModel": "MSM_ToonOutline",
+        "OpacityMaskClipValue": 0.3333,
+        "RenderQueue": 250,
+        "bCastRayTracedShadows": true,
+        "bIsOnlyForSkeletalMesh": true,
+        "bDisableCastDynamicShadows": true,
+        "bUsedWithSkeletalMesh": true,
+        "bUsedWithMorphTargets": true,
+        "bIsBackFace": true,
+        "bUseFullPrecision": true
+      }
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

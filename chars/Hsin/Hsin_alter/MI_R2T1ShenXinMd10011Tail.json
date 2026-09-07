@@ -1,0 +1,200 @@
+{
+  "Textures": {
+    "MainTex": "Client/Content/Aki/Character/Role/FemaleXL/XinyuehuShen/R2T1ShenXinMd10011/Model/T_R2T1ShenXinMd10011Tail_D.T_R2T1ShenXinMd10011Tail_D",
+    "PM_Diffuse": "Client/Content/Aki/Character/Role/FemaleXL/Xinyuehu/R2T1XinMd10011/Model/T_R2T1XinMd10011_M.T_R2T1XinMd10011_M",
+    "T_R2T1ShenXinMd10011Tail_D": "Client/Content/Aki/Character/Role/FemaleXL/XinyuehuShen/R2T1ShenXinMd10011/Model/T_R2T1ShenXinMd10011Tail_D.T_R2T1ShenXinMd10011Tail_D",
+    "TypeMask": "Client/Content/Aki/Character/Role/FemaleXL/XinyuehuShen/R2T1ShenXinMd10011/Model/T_R2T1ShenXinMd10011Tail_ID.T_R2T1ShenXinMd10011Tail_ID",
+    "T_R2T1ShenXinMd10011Tail_ID": "Client/Content/Aki/Character/Role/FemaleXL/XinyuehuShen/R2T1ShenXinMd10011/Model/T_R2T1ShenXinMd10011Tail_ID.T_R2T1ShenXinMd10011Tail_ID",
+    "Ramp": "Client/Content/Aki/Character/Role/FemaleXL/XinyuehuShen/R2T1ShenXinMd10011/Model/T_R2T1ShenXinMd10011_Skin.T_R2T1ShenXinMd10011_Skin",
+    "T_R2T1ShenXinMd10011_Skin": "Client/Content/Aki/Character/Role/FemaleXL/XinyuehuShen/R2T1ShenXinMd10011/Model/T_R2T1ShenXinMd10011_Skin.T_R2T1ShenXinMd10011_Skin",
+    "PM_Normals": "Client/Content/Aki/Character/Role/FemaleXL/XinyuehuShen/R2T1ShenXinMd10011/Model/T_R2T1ShenXinMd10011Tail_N.T_R2T1ShenXinMd10011Tail_N",
+    "Normal_Roughness_Metallic": "Client/Content/Aki/Character/Role/FemaleXL/XinyuehuShen/R2T1ShenXinMd10011/Model/T_R2T1ShenXinMd10011Tail_N.T_R2T1ShenXinMd10011Tail_N",
+    "MatCapTex": "Client/Content/Aki/Character/Role/CommonTexture/CharacterCubeMaps/T_MC_premake12_D.T_MC_premake12_D",
+    "T_MC_premake12_D": "Client/Content/Aki/Character/Role/CommonTexture/CharacterCubeMaps/T_MC_premake12_D.T_MC_premake12_D",
+    "Fur_Tex": "Client/Content/Aki/Character/Role/FemaleXL/Xinyuehu/R2T1XinMd10011/Model/T_R2T1XinMd10011_M.T_R2T1XinMd10011_M"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 0,
+    "Colors": {
+      "白1号": {
+        "R": 0.933333,
+        "G": 0.85098,
+        "B": 0.717647,
+        "A": 1.0,
+        "Hex": "F8EEDD"
+      },
+      "白1号晚上": {
+        "R": 0.960784,
+        "G": 0.941177,
+        "B": 0.85,
+        "A": 1.0,
+        "Hex": "FBF9EE"
+      },
+      "SkinShadowColor1": {
+        "R": 0.568627,
+        "G": 0.54902,
+        "B": 0.45098,
+        "A": 0.0,
+        "Hex": "C7C4B3"
+      },
+      "SkinColor": {
+        "R": 0.901042,
+        "G": 0.882113,
+        "B": 0.836686,
+        "A": 1.0,
+        "Hex": "F4F2EC"
+      },
+      "SubsurfaceColor": {
+        "R": 0.235925,
+        "G": 0.380915,
+        "B": 0.733333,
+        "A": 0.0,
+        "Hex": "85A6DF"
+      },
+      "Damage_Dirty_ColorTint": {
+        "R": 0.092348,
+        "G": 0.129167,
+        "B": 0.119805,
+        "A": 1.0,
+        "Hex": "566561"
+      },
+      "Damage_Dirty_SkinColorTint": {
+        "R": 0.848958,
+        "G": 0.587674,
+        "B": 0.543864,
+        "A": 1.0,
+        "Hex": "EECAC3"
+      },
+      "SDFColor": {
+        "R": 0.0,
+        "G": 0.0,
+        "B": 0.0,
+        "A": 0.0,
+        "Hex": "000000"
+      },
+      "SDFColor02": {
+        "R": 0.0,
+        "G": 0.0,
+        "B": 0.0,
+        "A": 0.0,
+        "Hex": "000000"
+      },
+      "SkinBaseColor": {
+        "R": 0.701961,
+        "G": 0.639216,
+        "B": 0.564706,
+        "A": 1.0,
+        "Hex": "DAD2C6"
+      },
+      "SkinBaseColorNight": {
+        "R": 0.85098,
+        "G": 0.835294,
+        "B": 0.756863,
+        "A": 1.0,
+        "Hex": "EEECE2"
+      }
+    },
+    "Scalars": {
+      "OpacityIntensity": 1.0,
+      "TranslucentDitherVaule": 0.0,
+      "SolidShadowSaturation": 1.0,
+      "SolidShadowView": 1.0,
+      "CurveRamp": 0.0,
+      "RampIndex": 1.0,
+      "RampInt": 0.4,
+      "ShadowWidthUseID": 1.0,
+      "0_ShadowWidth": 0.5,
+      "1_ShadowWidth": 0.15,
+      "4_ShadowWidth": 0.5,
+      "ShadowWidth": 1.0,
+      "SolidShadowWidth": 0.8,
+      "SolidShadowStrength": 0.1,
+      "SolidShadowProcess": 0.3,
+      "ShadowProcess": 0.6,
+      "DamageIntensity": 0.0,
+      "Damage_Dirty_Intensity": 1.0,
+      "NormalStrength": 1.0,
+      "PBRRateIntensity": 0.7,
+      "EdgeEnvBRDFIntensity": 0.0,
+      "SpecularPower": 20.0,
+      "MetalSpecularPower": 15.0,
+      "NonMetallicMatCapInt": 1.0,
+      "FurAlphaIntensity": 1.2,
+      "FurRangeStep": 0.0,
+      "FurOffset": 0.0,
+      "UseMainTexAlpha": 1.0,
+      "MAX": 0.6,
+      "MIN": 0.0,
+      "FurBlendIntensity": 1.0,
+      "FurBlendUseVertexRFade": 1.0,
+      "UseVertexColor": 1.0,
+      "FlowMapInt": 0.1,
+      "FlowmapScale": 1.0,
+      "Height": 0.5333,
+      "HeightMapSize": 35.0,
+      "ParallaxRimFadeMax": 1.0,
+      "ParallaxRimFadeMin": 0.0,
+      "UseVertexAMask": 1.0,
+      "UseUVGradient_DYN": 1.0,
+      "UvGradientProcess": 0.26,
+      "GradientIntensity": 4.0,
+      "GradientLambert": 1.0,
+      "GradientScaleMax": 1.0,
+      "GradientScaleMin": 0.0,
+      "BaseSphereLightInt": 0.3,
+      "ShdaowSphereLightInt": 0.4,
+      "ShowSphereLightMask": 0.0,
+      "SDFStart": -0.2,
+      "UVpositionX": -0.990521,
+      "UVpositionY": -0.999729,
+      "UVScaleX": 12.253783,
+      "UVScaleY": 10.757265,
+      "Rotation Angle (0-1) (S)": 0.278571,
+      "UVGradientSkinInt": 0.95,
+      "UVSaturationIntensity": 1.5,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {
+      "UseTranslucent": true,
+      "UseToonMask": true,
+      "UseMainTexA": true,
+      "UseTypeMask": true,
+      "UseRampColor": true,
+      "UseOnlySkinRampColor": true,
+      "UseNormalMap": true,
+      "UsePBR": true,
+      "Use_Char_Wet": true,
+      "UseFurry": true,
+      "UseTangentClip": true,
+      "UseFurryParallax": true,
+      "UseSphereGradient": true,
+      "UseUVGradient": true,
+      "UseRotate180UV": true,
+      "UseLightOffset_Pitch": true
+    },
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "bOverride_BlendMode": true,
+        "bOverride_TwoSided": true,
+        "TwoSided": true,
+        "bEnableAdaptiveTessellation": true,
+        "BlendMode": "BLEND_Masked",
+        "ShadingModel": "MSM_ToonCommon",
+        "OpacityMaskClipValue": 0.3333,
+        "RenderQueue": 180,
+        "bCastRayTracedShadows": true,
+        "bIsOnlyForSkeletalMesh": true,
+        "bUsedWithSkeletalMesh": true,
+        "bUsedWithMorphTargets": true
+      }
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

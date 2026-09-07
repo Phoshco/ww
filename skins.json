@@ -253,6 +253,17 @@
         "pmx": "Lynae.pmx"
     },
 	{
+        "id": 40000056,
+        "name": "Hsin",
+        "weaponType": "Rectifier",
+        "element": "Electro",
+        "gender": "Female",
+        "rarity": 6,
+        "directory": "ww/chars/Hsin/Hsin_alter",
+        "image": "ww/WuWa/Hsin.png",
+        "pmx": "Hsin.pmx"
+    },
+	{
         "id": 40000000,
         "name": "Rover (Male)",
         "weaponType": "Universal",
