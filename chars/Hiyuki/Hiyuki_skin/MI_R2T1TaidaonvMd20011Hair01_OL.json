@@ -1,0 +1,64 @@
+{
+  "Textures": {
+    "MainTex": "Client/Content/Aki/Character/Role/FemaleXL/TaiDaoNv/R2T1TaidaonvMd20011/Model/T_R2T1TaidaonvMd20011Hair01_D.T_R2T1TaidaonvMd20011Hair01_D",
+    "PM_Diffuse": "Client/Content/Aki/Character/Role/FemaleXL/TaiDaoNv/R2T1TaidaonvMd20011/Model/T_R2T1TaidaonvMd20011Hair01_D.T_R2T1TaidaonvMd20011Hair01_D",
+    "T_R2T1TaidaonvMd20011Hair01_D": "Client/Content/Aki/Character/Role/FemaleXL/TaiDaoNv/R2T1TaidaonvMd20011/Model/T_R2T1TaidaonvMd20011Hair01_D.T_R2T1TaidaonvMd20011Hair01_D"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {
+      "OutlineColor": {
+        "R": 0.103157,
+        "G": 0.110469,
+        "B": 0.130209,
+        "A": 1.0,
+        "Hex": "5A5D65"
+      },
+      "OutlineColorTint": {
+        "R": 0.654167,
+        "G": 0.569173,
+        "B": 0.522562,
+        "A": 0.0,
+        "Hex": "D4C7C0"
+      }
+    },
+    "Scalars": {
+      "MinWidth": 0.03,
+      "OutlineWidth": 0.14,
+      "InnerOutlineMulti": 500.0,
+      "InnerOutlineOffset": 0.5,
+      "OutlineClipWidth": 1.2,
+      "OutlineHoldDistance": 1.5,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {
+      "UseMainTex": true,
+      "UseVertexColorB_InnerOutline": true,
+      "UseVertexGreen_OutlineWidth": true,
+      "UseClipSpaceOutline": true
+    },
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "bEnableAdaptiveTessellation": true,
+        "ShadingModel": "MSM_ToonOutline",
+        "OpacityMaskClipValue": 0.3333,
+        "RenderQueue": 250,
+        "bCastRayTracedShadows": true,
+        "bIsOnlyForSkeletalMesh": true,
+        "bDisableCastDynamicShadows": true,
+        "bUsedWithSkeletalMesh": true,
+        "bUsedWithMorphTargets": true,
+        "bIsBackFace": true,
+        "bUseFullPrecision": true
+      }
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

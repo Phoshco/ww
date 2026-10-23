@@ -638,6 +638,17 @@
         "pmx": "Suoming.pmx"
     },
 	{
+        "id": 40000058,
+        "name": "Lily",
+        "weaponType": "Pistols",
+        "element": "Spectro",
+        "gender": "Female",
+        "rarity": 5,
+        "directory": "ww/chars/Lily",
+        "image": "ww/WuWa/Lily.png",
+        "pmx": "Lily.mmd.pmx"
+    },
+	{
         "id": 4000000,
         "name": "Scar",
         "weaponType": "Universal",

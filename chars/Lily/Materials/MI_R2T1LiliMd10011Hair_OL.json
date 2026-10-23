@@ -1,0 +1,60 @@
+{
+  "Textures": {
+    "MainTex": "Client/Content/Aki/Character/Role/FemaleMS/Lili/R2T1LiliMd10011/Model/T_R2T1LiliMd10011Hair_D.T_R2T1LiliMd10011Hair_D",
+    "PM_Diffuse": "Client/Content/Aki/Character/Role/FemaleMS/Lili/R2T1LiliMd10011/Model/T_R2T1LiliMd10011Hair_D.T_R2T1LiliMd10011Hair_D",
+    "T_R2T1LiliMd10011Hair_D": "Client/Content/Aki/Character/Role/FemaleMS/Lili/R2T1LiliMd10011/Model/T_R2T1LiliMd10011Hair_D.T_R2T1LiliMd10011Hair_D"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {
+      "OutlineColor": {
+        "R": 0.309326,
+        "G": 0.323727,
+        "B": 0.328125,
+        "A": 1.0,
+        "Hex": "979A9B"
+      },
+      "OutlineColorTint": {
+        "R": 0.441894,
+        "G": 0.460982,
+        "B": 0.46875,
+        "A": 0.0,
+        "Hex": "B2B5B6"
+      }
+    },
+    "Scalars": {
+      "MinWidth": 0.03,
+      "OutlineWidth": 0.12,
+      "OutlineClipWidth": 1.2,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {
+      "UseMainTex": true,
+      "UseVertexColorB_InnerOutline": true,
+      "UseVertexGreen_OutlineWidth": true
+    },
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "bEnableAdaptiveTessellation": true,
+        "ShadingModel": "MSM_ToonOutline",
+        "OpacityMaskClipValue": 0.3333,
+        "RenderQueue": 250,
+        "bCastRayTracedShadows": true,
+        "bIsOnlyForSkeletalMesh": true,
+        "bDisableCastDynamicShadows": true,
+        "bUsedWithSkeletalMesh": true,
+        "bUsedWithMorphTargets": true,
+        "bIsBackFace": true,
+        "bUseFullPrecision": true
+      }
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}
