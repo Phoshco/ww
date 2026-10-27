@@ -118,7 +118,8 @@
         "rarity": 5,
         "directory": "ww/chars/Mornye/Mornye_skin",
         "image": "ww/WuWa/Mornye.png",
-        "pmx": "Mornye.pmx"
+        "pmx": "Mornye.pmx",
+		"exception": true
     },
 	{
         "id": 40000949,
@@ -272,7 +273,8 @@
         "rarity": 6,
         "directory": "ww/chars/Hiyuki/Hiyuki_skin",
         "image": "ww/WuWa/Hiyuki.png",
-        "pmx": "Hiyuki.mmd.pmx"
+        "pmx": "Hiyuki.mmd.pmx",
+		"exception": true
     },
 	{
         "id": 40000749,
@@ -283,7 +285,8 @@
         "rarity": 6,
         "directory": "ww/chars/Hiyuki/Hiyuki_skin",
         "image": "ww/WuWa/Hiyuki.png",
-        "pmx": "Hiyuki2.mmd.pmx"
+        "pmx": "Hiyuki2.mmd.pmx",
+		"exception": true
     },
 	{
         "id": 40000000,
