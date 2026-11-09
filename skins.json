@@ -273,8 +273,7 @@
         "rarity": 6,
         "directory": "ww/chars/Hiyuki/Hiyuki_skin",
         "image": "ww/WuWa/Hiyuki.png",
-        "pmx": "Hiyuki.mmd.pmx",
-		"exception": true
+        "pmx": "绯雪.pmx"
     },
 	{
         "id": 40000749,
@@ -285,8 +284,7 @@
         "rarity": 6,
         "directory": "ww/chars/Hiyuki/Hiyuki_skin",
         "image": "ww/WuWa/Hiyuki.png",
-        "pmx": "Hiyuki2.mmd.pmx",
-		"exception": true
+        "pmx": "绯雪_二阶段.pmx"
     },
 	{
         "id": 40000000,
@@ -309,5 +307,16 @@
         "directory": "ww/chars/Rover (Female)/Skin",
         "image": "ww/WuWa/Rover (Female).png",
         "pmx": "Rover (Female).pmx"
+    },
+	{
+        "id": 40000058,
+        "name": "Lily",
+        "weaponType": "Pistols",
+        "element": "Spectro",
+        "gender": "Female",
+        "rarity": 5,
+        "directory": "ww/chars/Lily/Lily_护士服",
+        "image": "ww/WuWa/Lily.png",
+        "pmx": "Lily.pmx"
     }
 ]

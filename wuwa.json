@@ -644,10 +644,9 @@
         "element": "Spectro",
         "gender": "Female",
         "rarity": 5,
-        "directory": "ww/chars/Lily",
+        "directory": "ww/chars/Lily/Lily",
         "image": "ww/WuWa/Lily.png",
-        "pmx": "Lily.mmd.pmx",
-		"exception": true
+        "pmx": "Lily.pmx"
     },
 	{
         "id": 4000000,
