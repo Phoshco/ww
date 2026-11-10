@@ -1,0 +1,141 @@
+{
+  "Textures": {
+    "EM": "Client/Content/Aki/Character/Role/CommonTexture/Eyes/T_HDMF03_EM.T_HDMF03_EM",
+    "PM_Emissive": "Client/Content/Aki/Character/Role/CommonTexture/Eyes/T_HDMF03_EM.T_HDMF03_EM",
+    "T_HDMF03_EM": "Client/Content/Aki/Character/Role/CommonTexture/Eyes/T_HDMF03_EM.T_HDMF03_EM",
+    "MainTex": "Client/Content/Aki/Character/Role/FemaleXL/Anna/R2T1AnnaMd10011/Model/T_R2T1AnnaMd10011Eye_D.T_R2T1AnnaMd10011Eye_D",
+    "PM_Diffuse": "Client/Content/Aki/Character/Role/FemaleXL/Anna/R2T1AnnaMd10011/Model/T_R2T1AnnaMd10011Eye_D.T_R2T1AnnaMd10011Eye_D",
+    "T_R2T1AnnaMd10011Eye_D": "Client/Content/Aki/Character/Role/FemaleXL/Anna/R2T1AnnaMd10011/Model/T_R2T1AnnaMd10011Eye_D.T_R2T1AnnaMd10011Eye_D",
+    "HeightLightMap": "Client/Content/Aki/Character/Role/CommonTexture/Eyes/T_EyesSecondHeightLight06_EG.T_EyesSecondHeightLight06_EG",
+    "T_EyesSecondHeightLight06_EG": "Client/Content/Aki/Character/Role/CommonTexture/Eyes/T_EyesSecondHeightLight06_EG.T_EyesSecondHeightLight06_EG",
+    "MaskTex": "Client/Content/Aki/Character/Role/CommonTexture/T_FemaleMFace_SDF.T_FemaleMFace_SDF",
+    "T_FemaleMFace_SDF": "Client/Content/Aki/Character/Role/CommonTexture/T_FemaleMFace_SDF.T_FemaleMFace_SDF"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {
+      "HeightLight_Color": {
+        "R": 0.516276,
+        "G": 0.476562,
+        "B": 0.953125,
+        "A": 0.1,
+        "Hex": "19BEB8FA"
+      },
+      "ParallaxOffset": {
+        "R": 0.019047,
+        "G": 0.028572,
+        "B": 0.0,
+        "A": 0.0,
+        "Hex": "252F00"
+      },
+      "HeightLightColor": {
+        "R": 0.744792,
+        "G": 0.562774,
+        "B": 0.533033,
+        "A": 0.0,
+        "Hex": "E0C6C1"
+      },
+      "OutLineColor": {
+        "R": 0.039546,
+        "G": 0.023153,
+        "B": 0.234551,
+        "A": 1.0,
+        "Hex": "382A85"
+      },
+      "EdgeColor": {
+        "R": 0.786458,
+        "G": 0.667136,
+        "B": 0.159749,
+        "A": 1.0,
+        "Hex": "E6D66F"
+      },
+      "ShadowColor": {
+        "R": 0.6,
+        "G": 0.6,
+        "B": 0.6,
+        "A": 0.0,
+        "Hex": "CCCCCC"
+      },
+      "SubsurfaceColor": {
+        "R": 0.4,
+        "G": 0.4,
+        "B": 0.4,
+        "A": 0.0,
+        "Hex": "AAAAAA"
+      },
+      "EmissionColor": {
+        "R": 0.0,
+        "G": 0.0,
+        "B": 0.0,
+        "A": 0.0,
+        "Hex": "000000"
+      }
+    },
+    "Scalars": {
+      "HeightLight_PositionX": 0.495237,
+      "HeightLight_PositionY": 0.542858,
+      "HeightLight_WidthX": 0.907512,
+      "HeightLight_WidthY": 0.922847,
+      "HeightLightMax": 0.45,
+      "HeightLightMin": 0.0,
+      "HeightLightRotate": 1.5,
+      "ParallaxHeight": 0.15,
+      "ParallaxScale": 0.8,
+      "EyeScale": 0.85,
+      "AniScaleCenterX": 0.7,
+      "AniScaleCenterY": 0.7,
+      "SecondLight_PositionX": 0.158628,
+      "SecondLight_PositionY": 0.453877,
+      "SecondLight_WidthX": 1.1964,
+      "SecondLight_WidthY": 0.320634,
+      "RotateAngle": 0.12381,
+      "SecondLight_Position02X": 0.25,
+      "SecondLight_Position02Y": 0.4,
+      "SecondLight_Width02X": 2.0,
+      "SecondLight_Width02Y": 1.5,
+      "RotateAngle02": -0.1,
+      "ShapeScaleX": 10.02992,
+      "ShapeScaleY": 26.881124,
+      "RotationAnlgle01": 0.022857,
+      "ShapePosition01X": 1.17318,
+      "ShapePosition01Y": 0.712381,
+      "RotationAnlgle02": 0.0,
+      "EdgeWidth": 0.4,
+      "Hardness": 0.47,
+      "LightDisable": 0.5,
+      "LightEmissiveInt": 1.5,
+      "Radius": 0.65,
+      "UseProLight": 1.0,
+      "Width": 0.22,
+      "ShadowWidth": 0.03,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {
+      "UseHeightLightShape": true,
+      "UseEyeSDF": true,
+      "UseAlphaBlendMode": true
+    },
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "bEnableAdaptiveTessellation": true,
+        "ShadingModel": "MSM_ToonFace",
+        "OpacityMaskClipValue": 0.3333,
+        "RenderQueue": 180,
+        "bCastRayTracedShadows": true,
+        "bIsOnlyForSkeletalMesh": true,
+        "bDisableCastDynamicShadows": true,
+        "bUsedWithSkeletalMesh": true,
+        "bUsedWithMorphTargets": true,
+        "bUseFullPrecision": true
+      }
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

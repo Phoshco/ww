@@ -1,0 +1,57 @@
+{
+  "Textures": {
+    "MainTex": "Client/Content/Aki/Character/Role/FemaleXL/Anna/R2T1AnnaMd10011/Model/T_R2T1AnnaMd10011Alpha01_D.T_R2T1AnnaMd10011Alpha01_D",
+    "PM_Diffuse": "Client/Content/Aki/Character/Role/FemaleXL/Anna/R2T1AnnaMd10011/Model/T_R2T1AnnaMd10011Alpha01_D.T_R2T1AnnaMd10011Alpha01_D",
+    "T_R2T1AnnaMd10011Alpha01_D": "Client/Content/Aki/Character/Role/FemaleXL/Anna/R2T1AnnaMd10011/Model/T_R2T1AnnaMd10011Alpha01_D.T_R2T1AnnaMd10011Alpha01_D"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 0,
+    "Colors": {
+      "OutlineColorTint": {
+        "R": 0.318621,
+        "G": 0.301791,
+        "B": 0.515625,
+        "A": 0.0,
+        "Hex": "9995BE"
+      }
+    },
+    "Scalars": {
+      "InnerOutlineMulti": 500.0,
+      "InnerOutlineOffset": 0.5,
+      "OutlineClipWidth": 1.5,
+      "OutlineHoldDistance": 2.0,
+      "OutlineMax": 0.7,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {
+      "UseMainTex": true,
+      "UseVertexColorB_InnerOutline": true,
+      "UseVertexGreen_OutlineWidth": true
+    },
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "bOverride_BlendMode": true,
+        "bEnableAdaptiveTessellation": true,
+        "BlendMode": "BLEND_Masked",
+        "ShadingModel": "MSM_ToonOutline",
+        "OpacityMaskClipValue": 0.3333,
+        "RenderQueue": 250,
+        "bCastRayTracedShadows": true,
+        "bIsOnlyForSkeletalMesh": true,
+        "bDisableCastDynamicShadows": true,
+        "bUsedWithSkeletalMesh": true,
+        "bUsedWithMorphTargets": true,
+        "bIsBackFace": true,
+        "bUseFullPrecision": true
+      }
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

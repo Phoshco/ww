@@ -649,6 +649,18 @@
         "pmx": "Lily.pmx"
     },
 	{
+        "id": 40000060,
+        "name": "Anna",
+        "weaponType": "Universal",
+        "element": "Universal",
+        "gender": "Female",
+        "rarity": 6,
+        "directory": "ww/chars/Anna",
+        "image": "ww/WuWa/Anna.png",
+        "pmx": "Anna.mmd.pmx",
+		"exception": true
+    },
+	{
         "id": 4000000,
         "name": "Scar",
         "weaponType": "Universal",
